@@ -10,12 +10,16 @@
 
 ##TODO
 
-- Introdução (4 laudas)
-- Referencial Teórico (6 laudas)
-	1. Empreendedorismo
+Algumas das tarefas a fazer
+
+**Introdução** (4 laudas)
+
+**Referencial Teórico** (6 laudas)
+
+    1. Empreendedorismo
 	2. Startups
 	3. MVP
 	4. MVP X Métodos Tradicionais
 	5. Marketing e Satisfação do cliente
 	
-- Procurar e formatar Referências Bibliográficas
+**Procurar e formatar Referências Bibliográficas**
