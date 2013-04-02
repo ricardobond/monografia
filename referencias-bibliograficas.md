@@ -12,9 +12,11 @@ BECKER, G.V.; LACOMBE, B.M.B. Colocando luz em quem tem “idéias luminosas”:
 
 FARAH, Osvaldo Elias; CAVALCANTI, Marly; MARCONDES, Luciana Passos. Empreendedorismo Estratégico: criação e gestão de pequenas empresas. São Paulo: Cengage Learning, 2008
 
-Drucker, Peter Ferdinand (2005), Inovação e espírito empreendedor: prática e princípios. São Paulo: Pioneira Thomson Learning.
+DRUCKER, Peter Ferdinand (2005), Inovação e espírito empreendedor: prática e princípios. São Paulo: Pioneira Thomson Learning.
 
-Ries, Eric (2011). The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. Crown Publishing
+RIES, Eric (2011). The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. Crown Publishing
+
+SCHUMPETER, Joseph Alois. Teoria do Desenvolvimento Econômico: uma investigação sobre lucros, capital, crédito, juro e o ciclo econômico. 2ed. São Paulo: Nova Cultural, 1985.
 
 ##FALTA
 
