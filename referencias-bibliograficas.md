@@ -18,7 +18,7 @@ RIES, Eric (2011). The Lean Startup: How Today's Entrepreneurs Use Continuous In
 
 SCHUMPETER, Joseph Alois. Teoria do Desenvolvimento Econômico: uma investigação sobre lucros, capital, crédito, juro e o ciclo econômico. 2ed. São Paulo: Nova Cultural, 1985.
 
-Graham, Paul (September, 2012). "Startup is growth". Retrieved Oct 18, 2012.
+GRAHAM, Paul (September, 2012). "Startup is growth". Retrieved Oct 18, 2012.
 
 ##FALTA
 
