@@ -22,7 +22,10 @@ d) Acima de R$ 15.000,00
 
 9. Houve necessidade de mudança na proposta de valor do seu negócio? Quantas vezes você fez essa mudança? Quais fatores o levaram a tomar essa decisão?
 
-10. Em que etapa do desenvolvimento de seu produto você gastou mais tempo? Em qual você encontrou maior dificuldade? (Concepção da ideia, plano de negócio, implementação da solução)
+10. Em que etapa do desenvolvimento de seu negócio você gastou mais tempo? Em qual você encontrou maior dificuldade?
+a) Concepção da ideia
+b) Plano de negócio
+c) Implementação da solução
 
 11. Quando você obteve seu primeiro cliente?
 
@@ -30,4 +33,8 @@ d) Acima de R$ 15.000,00
 
 13. Qual o percentual de clientes que costumam pedir funcionalidades novas para o seu produto? Com que frequência? Como você lida com isso?
 
-14. Descreva o seu ambiente de desenvolvimento (Linguagem de programação, frameworks e etc...).
+14. Você acha importante o feedback do cliente? Que mecanismos você utiliza para colher a opinião do seu público alvo?
+
+15. Descreva o ambiente de desenvolvimento da sua startup (Linguagem de programação, frameworks e etc...).
+
+Ler capítulos sobre AMOSTRAGEM E QUESTIONÁRIO
