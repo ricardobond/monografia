@@ -831,7 +831,7 @@
   \date{\large \arial \data}%
   \ifthenelse{\boolean{abnt}}
     {\bibliographystyle{abnt-alf}}%
-    {\bibliographystyle{inf-ufg}}%
+    {\bibliographystyle{plainnat}}%
   \pagestyle{empty}%
   }
 \AtEndDocument{%

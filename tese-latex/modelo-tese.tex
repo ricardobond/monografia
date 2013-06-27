@@ -1,5 +1,5 @@
 % Exemplo de dissertação do INF-UFG com texto em portugues formatado com LaTeX
-\documentclass[dissertacao]{inf-ufg}
+\documentclass[dissertacao, abnt]{inf-ufg}
 % Opções da classe inf-ufg (ao usar mais de uma, separe por vírgulas)
 %   [tese]         -> Tese de doutorado.
 %   [dissertacao]  -> Dissertação de mestrado (padrão).
@@ -11,6 +11,7 @@
 %                     da versão final do seu texto!!!
 
 %----------------------------------------------------- INICIO DO DOCUMENTO %
+%\usepackage[authoryear]{natbib}
 \begin{document}
 
 %------------------------------------------ AUTOR, TÍTULO E DATA DE DEFESA %
@@ -90,7 +91,6 @@
 \cleardoublepage
 %\nocite{*} %%% Retire esta linha para gerar a bibliografia com apenas as
            %%% referências usadas no seu texto!
-%\bibliographystyle{decsci}
 \bibliography{./bib/modelo-tese}
 \arial
 %\bibsliography{./bib/modelo-tese} %%% Nomes dos seus arquivos .bib
