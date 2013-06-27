@@ -5,6 +5,11 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{1.45.2.1 }
 
+\bibitem[Baron e Shane 2007]{baron2007empreendedorismo}
+\abntrefinfo{Baron e Shane}{BARON; SHANE}{2007}
+{BARON, R.~A.; SHANE, S.~A. \emph{Empreendedorismo: uma vis{\~a}o do processo}.
+  [S.l.]: Thomson Learning, 2007.}
+
 \bibitem[Becker e LACOMBE 2003]{becker2003colocando}
 \abntrefinfo{Becker e LACOMBE}{BECKER; LACOMBE}{2003}
 {BECKER, G.~V.; LACOMBE, B.~M. Colocando luz em quem tem ``id{\'e}ias
@@ -17,6 +22,17 @@
 {BLANK, S.~G.; DORF, B. \emph{The startup owner's manual: the step-by-step
   guide for building a great company}. [S.l.]: K\&S Ranch, Incorporated, 2012.}
 
+\bibitem[Costa, Barros e Carvalho 2011]{da2011dimensao}
+\abntrefinfo{Costa, Barros e Carvalho}{COSTA; BARROS; CARVALHO}{2011}
+{COSTA, A.~M. da; BARROS, D.~F.; CARVALHO, J. L.~F. A dimens{\~a}o
+  hist{\'o}rica dos discursos acerca do empreendedor e do empreendedorismo.
+\emph{RAC. Revista de Administra{\c{c}}{\~a}o Contempor{\^a}nea}, SciELO
+  Brasil, n.~2, p. 179--197, 2011.}
+
+\bibitem[Dolabela 1999]{dolabela1999segredo}
+\abntrefinfo{Dolabela}{DOLABELA}{1999}
+{DOLABELA, F. \emph{O segredo de Lu{\'\i}sa}. [S.l.]: Cultura Ed. Ass., 1999.}
+
 \bibitem[Dornelas 2008]{dornelas2008empreendedorismo}
 \abntrefinfo{Dornelas}{DORNELAS}{2008}
 {DORNELAS, J. C.~A. \emph{Empreendedorismo}. [S.l.]: Elsevier Brasil, 2008.}
@@ -26,9 +42,22 @@
 {DRUCKER, P.~F. \emph{Inova{\c{c}}{\~a}o e ep{\'\i}rito empreendedor}. [S.l.]:
   Cengage Learning Editores, 2008.}
 
+\bibitem[Ghinato 1996]{ghinato1996sistema}
+\abntrefinfo{Ghinato}{GHINATO}{1996}
+{GHINATO, P. \emph{Sistema Toyota de produ{\c{c}}{\~a}o: mais do que
+  simplesmente just-in-time automa{\c{c}}{\~a}o e zero defeitos}. [S.l.]:
+  EDUCS, 1996.}
+
 \bibitem[Hisrich e Peters 2004]{hisrich2004empreendedorismo}
 \abntrefinfo{Hisrich e Peters}{HISRICH; PETERS}{2004}
 {HISRICH, R.~D.; PETERS, M.~P. \emph{Empreendedorismo}. [S.l.]: Bookman, 2004.}
+
+\bibitem[James-Moore e Gibbons 1997]{james1997lean}
+\abntrefinfo{James-Moore e Gibbons}{JAMES-MOORE; GIBBONS}{1997}
+{JAMES-MOORE, S.; GIBBONS, A. Is lean manufacture universally relevant? an
+  investigative methodology.
+\emph{International Journal of Operations \& Production Management}, MCB UP
+  Ltd, v.~17, n.~9, p. 899--911, 1997.}
 
 \bibitem[Kelley, Singer e Herrington 2012]{kelley2012global}
 \abntrefinfo{Kelley, Singer e Herrington}{KELLEY; SINGER; HERRINGTON}{2012}
@@ -53,5 +82,22 @@
 {SCHUMPETER, J.~A. \emph{Teoria do desenvolvimento econ{\^o}mico: uma
   investiga{\c{c}}{\~a}o sobre lucros, capital, cr{\'e}dito, juro e o ciclo
   econ{\^o}mico}. [S.l.]: Abril Cultural, 1982.}
+
+\bibitem[Shah e Ward 2003]{shah2003lean}
+\abntrefinfo{Shah e Ward}{SHAH; WARD}{2003}
+{SHAH, R.; WARD, P.~T. Lean manufacturing: context, practice bundles, and
+  performance.
+\emph{Journal of Operations Management}, Elsevier, v.~21, n.~2, p. 129--149,
+  2003.}
+
+\bibitem[Timmons e Spinelli 1994]{timmons1994new}
+\abntrefinfo{Timmons e Spinelli}{TIMMONS; SPINELLI}{1994}
+{TIMMONS, J.~A.; SPINELLI, S. \emph{New venture creation: Entrepreneurship for
+  the 21st century}. [S.l.]: Irwin Homewood, 1994.}
+
+\bibitem[Womack et al. 2004]{womack2004mentalidade}
+\abntrefinfo{Womack et al.}{WOMACK et al.}{2004}
+{WOMACK, J.~P. et al. \emph{A mentalidade enxuta nas empresas lean thinking:
+  elimine o desperd{\'\i}cio e crie riqueza}. [S.l.]: Elsevier Editora, 2004.}
 
 \end{thebibliography}

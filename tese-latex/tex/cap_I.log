@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=latex 2012.6.30)  27 JUN 2013 17:00
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  27 JUN 2013 20:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -52,6 +52,15 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 2--4
 []
  []
 
+! Undefined control sequence.
+l.5 \section
+            {Contexto}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 
 ! LaTeX Error: Missing \begin{document}.
 
@@ -59,7 +68,32 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 O
+l.5 \section{C
+              ontexto}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 5--6
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 O
       aumento da concorrência empresarial e a utilização de tecnologias nos ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -313,34 +347,24 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{dolabela1999segredo}
 ! Undefined control sequence.
-l.5 ...imensionando seus quadros de pessoal \citep
-                                                  {dolabela1999segredo}. A g...
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.7 ...adros de pessoal \cite{dolabela1999segredo}
+                                                  . A geração de empregos pa...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-Missing character: There is no d in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no o in font nullfont!
+
+LaTeX Warning: Citation `dolabela1999segredo' on page  undefined on input line 
+7.
+
+Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no g in font nullfont!
@@ -574,7 +598,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.5 ...formal ou informal\cite{deempreendedorismo}
+l.7 ...formal ou informal\cite{deempreendedorismo}
                                                   . É nesse contexto que com...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -583,7 +607,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `deempreendedorismo' on page  undefined on input line 5
+LaTeX Warning: Citation `deempreendedorismo' on page  undefined on input line 7
 .
 
 Missing character: There is no ] in font nullfont!
@@ -780,12 +804,17 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 5--6
+Overfull \hbox (20.0pt too wide) in paragraph at lines 7--8
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 5--6
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 7--8
+[]
+ []
+
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 7--8
 []
  []
 
@@ -796,7 +825,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.7 P
+l.9 P
      ara \cite{hisrich2004empreendedorismo} ainda não há definição unânime e...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -811,7 +840,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.7 Para \cite{hisrich2004empreendedorismo}
+l.9 Para \cite{hisrich2004empreendedorismo}
                                             ainda não há definição unânime e...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -821,7 +850,7 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `hisrich2004empreendedorismo' on page  undefined on inp
-ut line 7.
+ut line 9.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -958,7 +987,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.7 ...eur, que segundo \cite{becker2003colocando}
+l.9 ...eur, que segundo \cite{becker2003colocando}
                                                   , tem seu significado orig...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -968,7 +997,7 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `becker2003colocando' on page  undefined on input line 
-7.
+9.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no , in font nullfont!
@@ -1159,17 +1188,17 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 7--8
+Overfull \hbox (20.0pt too wide) in paragraph at lines 9--10
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 7--8
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 9--10
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 7--8
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 9--10
 []
  []
 
@@ -1180,8 +1209,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.9 A
-     s definições oscilam, entre as postulações da economia, da psicologia, ...
+l.11 A
+      s definições oscilam, entre as postulações da economia, da psicologia,...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1278,7 +1307,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.9 ...tração. \cite{dornelas2008empreendedorismo}
+l.11 ...ração. \cite{dornelas2008empreendedorismo}
                                                    ressalta como característ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1288,7 +1317,7 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `dornelas2008empreendedorismo' on page  undefined on in
-put line 9.
+put line 11.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -1472,7 +1501,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.9 ...to que o cerca. \cite{drucker2008inovaccao}
+l.11 ...o que o cerca. \cite{drucker2008inovaccao}
                                                    sugere que "o surgimento ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1482,7 +1511,7 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `drucker2008inovaccao' on page  undefined on input line
- 9.
+ 11.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -1690,17 +1719,17 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 9--10
+Overfull \hbox (20.0pt too wide) in paragraph at lines 11--12
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 9--10
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 11--12
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 9--10
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 11--12
 []
  []
 
@@ -1711,7 +1740,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 P
+l.13 P
       ara \cite{dornelas2008empreendedorismo} a definição de empreendedorism...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -1726,7 +1755,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.11 Para \cite{dornelas2008empreendedorismo}
+l.13 Para \cite{dornelas2008empreendedorismo}
                                               a definição de empreendedorism...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1736,7 +1765,7 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `dornelas2008empreendedorismo' on page  undefined on in
-put line 11.
+put line 13.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -1933,12 +1962,12 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 11--12
+Overfull \hbox (20.0pt too wide) in paragraph at lines 13--14
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 11--12
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 13--14
 []
  []
 
@@ -1949,7 +1978,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.13 P
+l.15 P
       ara o termo "empreendedor? encontra-se muitas definições, uma das mais...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2079,7 +2108,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.13 ... é a de \cite[p.~55]{schumpeter1982teoria}
+l.15 ... é a de \cite[p.~55]{schumpeter1982teoria}
                                                   : ``O empreendedor é aquel...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2089,7 +2118,7 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `schumpeter1982teoria' on page  undefined on input line
- 13.
+ 15.
 
 Missing character: There is no , in font nullfont!
 Missing character: There is no p in font nullfont!
@@ -2275,12 +2304,12 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no ` in font nullfont!
 Missing character: There is no ` in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 13--14
+Overfull \hbox (20.0pt too wide) in paragraph at lines 15--16
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 13--14
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 15--16
 []
  []
 
@@ -2291,7 +2320,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 O
+l.17 O
        processo empreendedor envolve todas as funções, atividades e ações as...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2679,7 +2708,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.15 ... erros.\cite{dornelas2008empreendedorismo}
+l.17 ... erros.\cite{dornelas2008empreendedorismo}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2689,16 +2718,16 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `dornelas2008empreendedorismo' on page  undefined on in
-put line 15.
+put line 17.
 
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 15--16
+Overfull \hbox (20.0pt too wide) in paragraph at lines 17--18
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 15--16
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 17--18
 [] 
  []
 
@@ -2709,7 +2738,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17 D
+l.19 D
       e acordo com \cite{dornelas2008empreendedorismo} diversas pesquisas tê...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2731,7 +2760,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.17 ...do com \cite{dornelas2008empreendedorismo}
+l.19 ...do com \cite{dornelas2008empreendedorismo}
                                                    diversas pesquisas têm mo...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2741,7 +2770,7 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `dornelas2008empreendedorismo' on page  undefined on in
-put line 17.
+put line 19.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no d in font nullfont!
@@ -3147,12 +3176,12 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 17--18
+Overfull \hbox (20.0pt too wide) in paragraph at lines 19--20
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 17--18
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 19--20
 []
  []
 
@@ -3163,7 +3192,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 P
+l.21 P
       odemos afirmar que no Brasil o tema ganha popularidade devido à expans...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3360,7 +3389,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.19 ...is por necessidade \cite{kelley2012global}
+l.21 ...is por necessidade \cite{kelley2012global}
                                                   . Com a qualificação dos e...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3369,7 +3398,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `kelley2012global' on page  undefined on input line 19.
+LaTeX Warning: Citation `kelley2012global' on page  undefined on input line 21.
 
 
 Missing character: There is no ] in font nullfont!
@@ -3589,7 +3618,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.19 ...presas \cite{dornelas2008empreendedorismo}
+l.21 ...presas \cite{dornelas2008empreendedorismo}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3599,22 +3628,22 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `dornelas2008empreendedorismo' on page  undefined on in
-put line 19.
+put line 21.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 19--20
+Overfull \hbox (20.0pt too wide) in paragraph at lines 21--22
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 19--20
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 21--22
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 19--20
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 21--22
 [] 
  []
 
@@ -3625,7 +3654,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.21 O
+l.23 O
        movimento empreendedor no Brasil começa então a tomar forma na década...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4536,7 +4565,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.21 ...ologia \cite{dornelas2008empreendedorismo}
+l.23 ...ologia \cite{dornelas2008empreendedorismo}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4546,17 +4575,17 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `dornelas2008empreendedorismo' on page  undefined on in
-put line 21.
+put line 23.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 21--22
+Overfull \hbox (20.0pt too wide) in paragraph at lines 23--24
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 21--22
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 23--24
 [] 
  []
 
@@ -4567,7 +4596,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23 F
+l.25 F
       oi com os programas criados no âmbito da Softex em todo o país, junto ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -5252,7 +5281,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.23 ...ireção \cite{dornelas2008empreendedorismo}
+l.25 ...ireção \cite{dornelas2008empreendedorismo}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5262,17 +5291,17 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `dornelas2008empreendedorismo' on page  undefined on in
-put line 23.
+put line 25.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 23--24
+Overfull \hbox (20.0pt too wide) in paragraph at lines 25--26
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 23--24
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 25--26
 [] 
  []
 
@@ -5283,7 +5312,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25 O
+l.27 O
        empreendedorismo, que é considerado não a intenção, mas sim a atitude...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -5823,7 +5852,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.25 ...eríodo \cite{dornelas2008empreendedorismo}
+l.27 ...eríodo \cite{dornelas2008empreendedorismo}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5833,17 +5862,17 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `dornelas2008empreendedorismo' on page  undefined on in
-put line 25.
+put line 27.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 25--26
+Overfull \hbox (20.0pt too wide) in paragraph at lines 27--28
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 25--26
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 27--28
 [] 
  []
 
@@ -5854,7 +5883,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 O
+l.29 O
        termo startup ficou originalmente conhecido no final da década de 199...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -6119,7 +6148,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.27 ... bolha da internet \cite{blank2012startup}
+l.29 ... bolha da internet \cite{blank2012startup}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6128,18 +6157,18 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `blank2012startup' on page  undefined on input line 27.
+LaTeX Warning: Citation `blank2012startup' on page  undefined on input line 29.
 
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 27--28
+Overfull \hbox (20.0pt too wide) in paragraph at lines 29--30
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 27--28
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 29--30
 [] 
  []
 
@@ -6150,7 +6179,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 P
+l.31 P
       ara se descobrir então a combinação perfeita entre problema e solução ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -6504,14 +6533,13 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
-Missing character: There is no . in font nullfont!
 Missing character: There is no [ in font nullfont!
 \citation{ries2011lean}
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.29 ...itas pelo empreendedor.\cite{ries2011lean}
-                                                  
+l.31 ...itas pelo empreendedor \cite{ries2011lean}
+                                                  .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -6519,16 +6547,17 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `ries2011lean' on page  undefined on input line 29.
+LaTeX Warning: Citation `ries2011lean' on page  undefined on input line 31.
 
 Missing character: There is no ] in font nullfont!
+Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 29--30
+Overfull \hbox (20.0pt too wide) in paragraph at lines 31--32
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 29--30
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 31--32
 [] 
  []
 
@@ -6539,7 +6568,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.31 C
+l.33 C
       om o objetivo de se testar tais hipóteses de negócio e ajudar empreend...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -6689,7 +6718,8 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no o in font nullfont!
-Missing character: There is no " in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no ` in font nullfont!
 Missing character: There is no M in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
@@ -6710,7 +6740,8 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no t in font nullfont!
-Missing character: There is no " in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no ` in font nullfont!
 Missing character: There is no M in font nullfont!
 Missing character: There is no V in font nullfont!
 Missing character: There is no P in font nullfont!
@@ -6720,7 +6751,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.31 ...m Viable Product" MVP. \cite{ries2011lean}
+l.33 ... Viable Product`` MVP. \cite{ries2011lean}
                                                    conceitua o MVP da seguin...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6729,7 +6760,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `ries2011lean' on page  undefined on input line 31.
+LaTeX Warning: Citation `ries2011lean' on page  undefined on input line 33.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no c in font nullfont!
@@ -6764,12 +6795,12 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 31--32
+Overfull \hbox (20.0pt too wide) in paragraph at lines 33--34
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 31--32
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 33--34
 []
  []
 
@@ -6780,13 +6811,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.33 ?
-      O MVP tem como definição o mínimo conjunto de funcionalidades que perm...
+l.35 `
+      `O MVP tem como definição o mínimo conjunto de funcionalidades que per...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no ? in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no ` in font nullfont!
 Missing character: There is no O in font nullfont!
 Missing character: There is no M in font nullfont!
 Missing character: There is no V in font nullfont!
@@ -7050,9 +7082,10 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
-Missing character: There is no ? in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no ` in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 33--34
+Overfull \hbox (20.0pt too wide) in paragraph at lines 35--36
 []
  []
 
@@ -7063,7 +7096,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.35 \cite{ries2011lean}
+l.37 \cite{ries2011lean}
                          cita o caso do fundador da Zappos, Nick Swinmum que...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -7074,7 +7107,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.35 \cite{ries2011lean}
+l.37 \cite{ries2011lean}
                          cita o caso do fundador da Zappos, Nick Swinmum que...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7083,7 +7116,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `ries2011lean' on page  undefined on input line 35.
+LaTeX Warning: Citation `ries2011lean' on page  undefined on input line 37.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no c in font nullfont!
@@ -7637,7 +7670,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (25.43053pt too wide) in paragraph at lines 35--36
+Overfull \hbox (25.43053pt too wide) in paragraph at lines 37--38
 [][]
  []
 
@@ -7648,7 +7681,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 F
+l.39 F
       ica claro que após a experimentação anterior, encontrou-se um modelo d...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -7801,7 +7834,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.37 ...tartup de sucesso. \cite{blank2012startup}
+l.39 ...tartup de sucesso. \cite{blank2012startup}
                                                    Mas a principal conclusão...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7810,7 +7843,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `blank2012startup' on page  undefined on input line 37.
+LaTeX Warning: Citation `blank2012startup' on page  undefined on input line 39.
 
 
 Missing character: There is no ] in font nullfont!
@@ -8035,6 +8068,128 @@ Missing character: There is no p in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 39--40
+[]
+ []
+
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 39--40
+[]
+ []
+
+! Undefined control sequence.
+l.41 \section
+             {Motivação}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \section{M
+               otivação}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ç in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no o in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 41--42
+[] 
+ []
+
+! Undefined control sequence.
+l.43 \section
+             {Objetivos}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \section{O
+               bjetivos}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no O in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 43--44
+[] 
+ []
+
+! Undefined control sequence.
+l.45 \section
+             {Organização do Trabalho}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 \section{O
+               rganização do Trabalho}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no O in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ç in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
 )
 ! Emergency stop.
 <*> cap_I.tex
@@ -8043,11 +8198,11 @@ Missing character: There is no . in font nullfont!
 
  
 Here is how much of TeX's memory you used:
- 17 strings out of 493489
- 337 string characters out of 3141349
+ 18 strings out of 493488
+ 358 string characters out of 3141326
  51432 words of memory out of 3000000
- 3423 multiletter control sequences out of 15000+200000
+ 3424 multiletter control sequences out of 15000+200000
  3948 words of font info for 15 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  20i,2n,26p,1144b,92s stack positions out of 5000i,500n,10000p,200000b,50000s
-No pages of output.
+!  ==> Fatal error occurred, no output PDF file produced!
