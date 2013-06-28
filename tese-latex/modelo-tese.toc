@@ -16,13 +16,13 @@
 \contentsline {section}{\numberline {2.2}Startup}{21}{section.17}
 \contentsline {section}{\numberline {2.3}Manufatura Enxuta}{21}{section.18}
 \contentsline {section}{\numberline {2.4}O Lean Startup}{23}{section.31}
-\contentsline {section}{\numberline {2.5}Conceitos Empregados}{24}{section.32}
-\contentsline {subsection}{\numberline {2.5.1}Customer Development}{24}{subsection.33}
-\contentsline {subsection}{\numberline {2.5.2}Desenvolvimento \'agil}{25}{subsection.35}
-\contentsline {subsection}{\numberline {2.5.3}Plataformas tecnol\'ogicas como \emph {commodity}}{25}{subsection.36}
-\contentsline {subsection}{\numberline {2.5.4}MVP: \emph {Minimum Viable Product}}{26}{subsection.37}
-\contentsline {subsection}{\numberline {2.5.5}\emph {Business Model Canvas}}{26}{subsection.38}
-\contentsline {subsection}{\numberline {2.5.6}\emph {Lean Canvas}}{27}{subsection.43}
+\contentsline {section}{\numberline {2.5}Customer Development}{24}{section.32}
+\contentsline {section}{\numberline {2.6}Desenvolvimento \'agil}{25}{section.34}
+\contentsline {section}{\numberline {2.7}Plataformas tecnol\'ogicas como \emph {commodities}}{25}{section.35}
+\contentsline {section}{\numberline {2.8}MVP: \emph {Minimum Viable Product}}{26}{section.36}
+\contentsline {section}{\numberline {2.9}\emph {Business Model Canvas}}{26}{section.37}
+\contentsline {section}{\numberline {2.10}\emph {Lean Canvas}}{27}{section.42}
+\contentsline {section}{\numberline {2.11}\emph {Feedback}}{29}{section.53}
 \contentsline {chapter}{\numberline {3}Elementos do texto}{30}{chapter.54}
 \contentsline {section}{\numberline {3.1}Figuras}{30}{section.55}
 \contentsline {chapter}{\numberline {4}Conclus{\~a}o}{31}{chapter.56}
