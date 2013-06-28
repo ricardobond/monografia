@@ -15,7 +15,7 @@
 \contentsline {section}{\numberline {2.1}Empreendedorismo}{19}{section.16}
 \contentsline {section}{\numberline {2.2}Startup}{21}{section.17}
 \contentsline {section}{\numberline {2.3}Manufatura Enxuta}{21}{section.18}
-\contentsline {section}{\numberline {2.4}Startup Enxuta}{22}{section.24}
+\contentsline {section}{\numberline {2.4}O Lean Startup}{22}{section.24}
 \contentsline {chapter}{\numberline {3}Elementos do texto}{24}{chapter.25}
 \contentsline {section}{\numberline {3.1}Figuras}{24}{section.26}
 \contentsline {chapter}{\numberline {4}Conclus{\~a}o}{25}{chapter.27}
