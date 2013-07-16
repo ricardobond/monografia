@@ -13,7 +13,7 @@
 \contentsline {section}{\numberline {1.5}Organiza\c c\~ao do Trabalho}{18}{section.14}
 \contentsline {chapter}{\numberline {2}Fundamenta\c c\~ao Te\'orica}{19}{chapter.15}
 \contentsline {section}{\numberline {2.1}Empreendedorismo}{19}{section.16}
-\contentsline {section}{\numberline {2.2}Startup}{21}{section.17}
+\contentsline {section}{\numberline {2.2}Startup}{20}{section.17}
 \contentsline {section}{\numberline {2.3}Manufatura Enxuta}{21}{section.18}
 \contentsline {section}{\numberline {2.4}O Lean Startup}{23}{section.31}
 \contentsline {section}{\numberline {2.5}Customer Development}{24}{section.32}

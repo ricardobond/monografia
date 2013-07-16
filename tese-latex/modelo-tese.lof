@@ -1,9 +1,9 @@
 \select@language {brazil}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces O modelo Customer Development.\relax }}{24}{figure.caption.33}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces O Business Model Canvas de Osterwalder.\relax }}{27}{figure.caption.41}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces O Lean Canvas de Ash Muraya.\relax }}{28}{figure.caption.43}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces O modelo Customer Development \cite {blankharvard}.\relax }}{24}{figure.caption.33}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces O Business Model Canvas de Osterwalder \cite {osterwalder2010business}.\relax }}{27}{figure.caption.41}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces O Lean Canvas de Ash Muraya \cite {maurya2012running}.\relax }}{28}{figure.caption.43}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \contentsfinish 
