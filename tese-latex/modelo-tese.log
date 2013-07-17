@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  17 JUL 2013 04:13
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  17 JUL 2013 05:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -813,17 +813,17 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <20.74> not available
 
 ]
 Cap\'{\i }tulo 4.
-) [33
+[33
 
-] (./modelo-tese.bbl
+]) [34] (./modelo-tese.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 33--35
 []\T1/ptm/m/n/12 BLANK, S. G. Why the lean start-up chan-ges everything.
  []
 
-[34
+[35
 
 
-]) [35] 
+]) [36] 
 AED: lastpage setting LastPage
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 107.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 107.
@@ -835,10 +835,10 @@ Package rerunfilecheck Info: File `modelo-tese.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 107.
  ) 
 Here is how much of TeX's memory you used:
- 10496 strings out of 493488
- 153583 string characters out of 3141326
+ 10498 strings out of 493488
+ 153606 string characters out of 3141326
  276340 words of memory out of 3000000
- 13413 multiletter control sequences out of 15000+200000
+ 13414 multiletter control sequences out of 15000+200000
  111806 words of font info for 107 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  43i,11n,45p,1442b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -851,10 +851,10 @@ t/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/ty
 pe1/urw/times/utmbi8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/t
 imes/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmri
 8a.pfb>
-Output written on modelo-tese.pdf (37 pages, 1057944 bytes).
+Output written on modelo-tese.pdf (38 pages, 1060027 bytes).
 PDF statistics:
- 567 PDF objects out of 1000 (max. 8388607)
- 505 compressed objects within 6 object streams
- 134 named destinations out of 1000 (max. 500000)
+ 571 PDF objects out of 1000 (max. 8388607)
+ 508 compressed objects within 6 object streams
+ 135 named destinations out of 1000 (max. 500000)
  373 words of extra memory for PDF output out of 10000 (max. 10000000)
 

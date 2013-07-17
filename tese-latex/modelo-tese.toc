@@ -29,6 +29,6 @@
 \contentsline {chapter}{\numberline {4}Considera\c {c}\~oes finais}{33}{chapter.58}
 \contentsline {section}{\numberline {4.1}Limita\c {c}\~oes e dificuldades encontradas}{33}{section.59}
 \contentsline {section}{\numberline {4.2}Conclus\~ao}{33}{section.60}
-\contentsline {section}{\numberline {4.3}Trabalhos futuros}{33}{section.61}
-\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{34}{section.61}
+\contentsline {section}{\numberline {4.3}Trabalhos futuros}{34}{section.61}
+\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{35}{section.61}
 \contentsfinish 
