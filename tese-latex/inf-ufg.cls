@@ -115,7 +115,7 @@
 \def\cidade#1{\def\@cidade{#1}}                 \cidade{Goi\^ania}
 \def\departamento#1{\def\@departamento{#1}}     \departamento{}
 \def\unidadeco#1{\def\@unidadeco{#1}}           \unidadeco{Instituto de Inform\'atica}
-\def\programa#1{\def\@programa{#1}}             \programa{Computa\c{c}\~ao}
+\def\programa#1{\def\@programa{#1}}             \programa{Sistemas de Informação}
 \def\unidade#1{\def\@unidade{#1}}               \unidade{Instituto de Inform\'atica}
 \def\universidade#1{\def\@universidade{#1}}     \universidade{Universidade Federal de Goi\'as}
 \def\universidadeco#1{\def\@universidadeco{#1}} \universidadeco{Universidade Federal de Goi\'as}
