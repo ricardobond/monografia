@@ -1,31 +1,34 @@
 \select@language {brazil}
-\contentsline {chapter}{Lista de Figuras}{10}{Doc-Start}
-\contentsline {chapter}{Lista de Tabelas}{11}{Doc-Start}
-\contentsline {chapter}{Lista de Algoritmos}{12}{Doc-Start}
-\contentsline {chapter}{Lista de C\'{o}digos de Programas}{13}{section*.1}
-\contentsline {chapter}{\numberline {1}Introdu\c c\~ao}{14}{chapter.2}
-\contentsline {section}{\numberline {1.1}Contexto}{14}{section.3}
-\contentsline {section}{\numberline {1.2}Motiva\c c\~ao}{17}{section.4}
-\contentsline {section}{\numberline {1.3}Objetivos}{17}{section.5}
-\contentsline {subsection}{\numberline {1.3.1}Objetivo Geral}{17}{subsection.6}
-\contentsline {subsection}{\numberline {1.3.2}Objetivos Espec{\'i}ficos}{17}{subsection.7}
-\contentsline {section}{\numberline {1.4}Metodologia}{17}{section.13}
-\contentsline {section}{\numberline {1.5}Organiza\c c\~ao do Trabalho}{18}{section.14}
-\contentsline {chapter}{\numberline {2}Fundamenta\c c\~ao Te\'orica}{19}{chapter.15}
-\contentsline {section}{\numberline {2.1}Empreendedorismo}{19}{section.16}
-\contentsline {section}{\numberline {2.2}Startup}{20}{section.17}
-\contentsline {section}{\numberline {2.3}Manufatura Enxuta}{21}{section.18}
-\contentsline {section}{\numberline {2.4}O Lean Startup}{23}{section.31}
-\contentsline {section}{\numberline {2.5}Customer Development}{24}{section.32}
-\contentsline {section}{\numberline {2.6}Desenvolvimento \'agil}{25}{section.34}
-\contentsline {section}{\numberline {2.7}Plataformas tecnol\'ogicas como \emph {commodities}}{25}{section.35}
-\contentsline {section}{\numberline {2.8}MVP: \emph {Minimum Viable Product}}{26}{section.36}
-\contentsline {section}{\numberline {2.9}\emph {Business Model Canvas}}{26}{section.37}
-\contentsline {section}{\numberline {2.10}\emph {Lean Canvas}}{27}{section.42}
-\contentsline {section}{\numberline {2.11}\emph {Feedback}}{29}{section.53}
-\contentsline {section}{\numberline {2.12}\emph {Entrega Cont\IeC {\'\i }nua}}{29}{section.54}
-\contentsline {chapter}{\numberline {3}Elementos do texto}{31}{chapter.56}
-\contentsline {section}{\numberline {3.1}Figuras}{31}{section.57}
-\contentsline {chapter}{\numberline {4}Conclus{\~a}o}{32}{chapter.58}
-\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{33}{chapter.58}
+\contentsline {chapter}{Lista de Figuras}{11}{Doc-Start}
+\contentsline {chapter}{Lista de Tabelas}{12}{Doc-Start}
+\contentsline {chapter}{Lista de Algoritmos}{13}{Doc-Start}
+\contentsline {chapter}{Lista de C\'{o}digos de Programas}{14}{section*.1}
+\contentsline {chapter}{\numberline {1}Introdu\c c\~ao}{15}{chapter.2}
+\contentsline {section}{\numberline {1.1}Contexto}{15}{section.3}
+\contentsline {section}{\numberline {1.2}Motiva\c c\~ao}{18}{section.4}
+\contentsline {section}{\numberline {1.3}Objetivos}{18}{section.5}
+\contentsline {subsection}{\numberline {1.3.1}Objetivo Geral}{18}{subsection.6}
+\contentsline {subsection}{\numberline {1.3.2}Objetivos Espec{\'i}ficos}{18}{subsection.7}
+\contentsline {section}{\numberline {1.4}Metodologia}{18}{section.13}
+\contentsline {section}{\numberline {1.5}Organiza\c c\~ao do Trabalho}{19}{section.14}
+\contentsline {chapter}{\numberline {2}Fundamenta\c c\~ao Te\'orica}{20}{chapter.15}
+\contentsline {section}{\numberline {2.1}Empreendedorismo}{20}{section.16}
+\contentsline {section}{\numberline {2.2}Startup}{21}{section.17}
+\contentsline {section}{\numberline {2.3}Manufatura Enxuta}{22}{section.18}
+\contentsline {section}{\numberline {2.4}O Lean Startup}{24}{section.31}
+\contentsline {section}{\numberline {2.5}Customer Development}{25}{section.32}
+\contentsline {section}{\numberline {2.6}Desenvolvimento \'agil}{26}{section.34}
+\contentsline {section}{\numberline {2.7}Plataformas tecnol\'ogicas como \emph {commodities}}{26}{section.35}
+\contentsline {section}{\numberline {2.8}MVP: \emph {Minimum Viable Product}}{27}{section.36}
+\contentsline {section}{\numberline {2.9}\emph {Business Model Canvas}}{27}{section.37}
+\contentsline {section}{\numberline {2.10}\emph {Lean Canvas}}{28}{section.42}
+\contentsline {section}{\numberline {2.11}\emph {Feedback}}{30}{section.53}
+\contentsline {section}{\numberline {2.12}\emph {Entrega Cont\IeC {\'\i }nua}}{30}{section.54}
+\contentsline {chapter}{\numberline {3}Uma \emph {GEM} para construir MVP's}{32}{chapter.56}
+\contentsline {section}{\numberline {3.1}Descri\~A\IeC {\S }\~A\IeC {\pounds }o do conceito}{32}{section.57}
+\contentsline {chapter}{\numberline {4}Considera\c {c}\~oes finais}{33}{chapter.58}
+\contentsline {section}{\numberline {4.1}Limita\c {c}\~oes e dificuldades encontradas}{33}{section.59}
+\contentsline {section}{\numberline {4.2}Conclus\~ao}{33}{section.60}
+\contentsline {section}{\numberline {4.3}Trabalhos futuros}{33}{section.61}
+\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{34}{section.61}
 \contentsfinish 

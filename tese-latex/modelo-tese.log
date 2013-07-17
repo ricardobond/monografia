@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  17 JUL 2013 03:56
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  17 JUL 2013 04:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -679,6 +679,10 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 9.85492pt on input line 21.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 27.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 10.79993pt on input line 27.
 )
 \tf@toc=\write5
 \openout5 = `modelo-tese.toc'.
@@ -687,34 +691,34 @@ LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 
 
 
-] (./modelo-tese.lof)
+] [10]
+(./modelo-tese.lof)
 \tf@lof=\write6
 \openout6 = `modelo-tese.lof'.
 
-
-[10
+ [11
 
 
 ] (./modelo-tese.lot)
 \tf@lot=\write7
 \openout7 = `modelo-tese.lot'.
 
- [11
+ [12
 
 
 ] (./modelo-tese.loa)
 \tf@loa=\write8
 \openout8 = `modelo-tese.loa'.
 
- [12
+ [13
 
 
-] (./modelo-tese.loc)
+]
+(./modelo-tese.loc)
 \tf@loc=\write9
 \openout9 = `modelo-tese.loc'.
 
-
-[13
+ [14
 
 
 ] (./tex/cap_I.tex
@@ -727,7 +731,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 18.66588pt on input line 2.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
-[14
+[15
 
 
 ]
@@ -736,31 +740,31 @@ Underfull \hbox (badness 1424) in paragraph at lines 24--25
 to do em-pre-en-de-dor
  []
 
-[15] [16]
+[16] [17]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 68.
- [17]) (./tex/cap_II.tex [18]
+ [18]) (./tex/cap_II.tex [19]
 Cap\'{\i }tulo 2.
-[19
+[20
 
-] [20]
+] [21]
 Underfull \hbox (badness 7116) in paragraph at lines 24--25
 []\T1/ptm/m/n/12 No con-texto apre-sen-tado, sur-gem as em-pre-sas de-no-mi-na-
 das \T1/ptm/m/it/12 star-tups\T1/ptm/m/n/12 ,
  []
 
-[21]
+[22]
 Underfull \hbox (badness 1253) in paragraph at lines 56--57
 []\T1/ptm/m/n/12 Atualmente co-e-xis-tem vá-rias de-fi-ni-ções para a Ma-nu-fa-
 tura En-xuta (ME).
  []
 
-[22] [23]
+[23] [24]
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 87.
- <./fig/customerDevelopment.png, id=400, 400.49625pt x 140.525pt>
+ <./fig/customerDevelopment.png, id=419, 400.49625pt x 140.525pt>
 File: ./fig/customerDevelopment.png Graphic file (type png)
 
 <use ./fig/customerDevelopment.png>
@@ -768,11 +772,11 @@ Package pdftex.def Info: ./fig/customerDevelopment.png used on input line 96.
 (pdftex.def)             Requested size: 341.43436pt x 119.80917pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10.95> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 97.
- [24 <./fig/customerDevelopment.png>]
+ [25 <./fig/customerDevelopment.png>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 125.
 
-[25] [26] <./fig/businessModelCanvas.jpg, id=426, 2258.4375pt x 1669.23625pt>
+[26] [27] <./fig/businessModelCanvas.jpg, id=445, 2258.4375pt x 1669.23625pt>
 File: ./fig/businessModelCanvas.jpg Graphic file (type jpg)
 
 <use ./fig/businessModelCanvas.jpg>
@@ -783,14 +787,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 179--179
 [][]|\T1/ptm/m/it/10.95 O Bu-si-ness Mo-del Can-vas de Os-terwal-der
  []
 
-<./fig/leanCanvas.png, id=430, 903.375pt x 766.865pt>
+<./fig/leanCanvas.png, id=449, 903.375pt x 766.865pt>
 File: ./fig/leanCanvas.png Graphic file (type png)
 
 <use ./fig/leanCanvas.png>
 Package pdftex.def Info: ./fig/leanCanvas.png used on input line 191.
 (pdftex.def)             Requested size: 341.43436pt x 289.84375pt.
- [27 <./fig/businessModelCanvas.jpg>] [28 <./fig/leanCanvas.png>] <./fig/contin
-uousDelivery.png, id=455, 887.315pt x 644.4075pt>
+ [28 <./fig/businessModelCanvas.jpg>] [29 <./fig/leanCanvas.png>] <./fig/contin
+uousDelivery.png, id=475, 887.315pt x 644.4075pt>
 File: ./fig/continuousDelivery.png Graphic file (type png)
 
 <use ./fig/continuousDelivery.png>
@@ -801,23 +805,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 239--239
 [][]|\T1/ptm/m/it/10.95 Di-a-grama de sequên-cia da en-trega con-tí-nua
  []
 
-) (./tex/cap_III.tex [29] [30 <./fig/continuousDelivery.png>]
+) (./tex/cap_III.tex [30] [31 <./fig/continuousDelivery.png>]
 Cap\'{\i }tulo 3.
-) (./tex/cap_V.tex [31
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <20.74> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 1.
+) (./tex/cap_V.tex [32
 
 ]
 Cap\'{\i }tulo 4.
-) [32
+) [33
 
 ] (./modelo-tese.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 33--35
 []\T1/ptm/m/n/12 BLANK, S. G. Why the lean start-up chan-ges everything.
  []
 
-[33
+[34
 
 
-]) [34] 
+]) [35] 
 AED: lastpage setting LastPage
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 107.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 107.
@@ -825,15 +831,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 107.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 107.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 107.
 Package rerunfilecheck Info: File `modelo-tese.out' has not changed.
-(rerunfilecheck)             Checksum: 4EBD109F2AA3EEEF30A0D2B960CF126F;2602.
+(rerunfilecheck)             Checksum: 97C90BBC0DB9E702D1A8B336DB11355F;2879.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 107.
  ) 
 Here is how much of TeX's memory you used:
- 10483 strings out of 493488
- 153433 string characters out of 3141326
- 275301 words of memory out of 3000000
- 13406 multiletter control sequences out of 15000+200000
- 106022 words of font info for 103 fonts, out of 3000000 for 9000
+ 10496 strings out of 493488
+ 153583 string characters out of 3141326
+ 276340 words of memory out of 3000000
+ 13413 multiletter control sequences out of 15000+200000
+ 111806 words of font info for 107 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  43i,11n,45p,1442b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
@@ -845,10 +851,10 @@ t/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/ty
 pe1/urw/times/utmbi8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/t
 imes/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmri
 8a.pfb>
-Output written on modelo-tese.pdf (36 pages, 1053890 bytes).
+Output written on modelo-tese.pdf (37 pages, 1057944 bytes).
 PDF statistics:
- 543 PDF objects out of 1000 (max. 8388607)
- 483 compressed objects within 5 object streams
- 130 named destinations out of 1000 (max. 500000)
- 349 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 567 PDF objects out of 1000 (max. 8388607)
+ 505 compressed objects within 6 object streams
+ 134 named destinations out of 1000 (max. 500000)
+ 373 words of extra memory for PDF output out of 10000 (max. 10000000)
 
