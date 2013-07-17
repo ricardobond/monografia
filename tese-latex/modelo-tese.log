@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  16 JUL 2013 21:21
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  17 JUL 2013 01:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -824,7 +824,7 @@ Here is how much of TeX's memory you used:
  13399 multiletter control sequences out of 15000+200000
  106022 words of font info for 103 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 43i,11n,45p,1357b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,11n,45p,1442b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2012/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2
@@ -834,7 +834,7 @@ t/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/ty
 pe1/urw/times/utmbi8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/t
 imes/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmri
 8a.pfb>
-Output written on modelo-tese.pdf (35 pages, 813740 bytes).
+Output written on modelo-tese.pdf (35 pages, 815803 bytes).
 PDF statistics:
  524 PDF objects out of 1000 (max. 8388607)
  467 compressed objects within 5 object streams
