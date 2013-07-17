@@ -229,5 +229,15 @@ O conceito do \emph{feedback} pode ser encontrado como apoio a diversas áreas, i
 
 \cite[p. 35]{beck2004extreme} afirma ainda que \emph{feedbacks} concretos trabalham em conjunto com a comunicação e simplicidade. Quanto mais \emph{feedback} você tem, mais fácil de se comunicar. Se alguém tem uma objeção a algum código que você escreveu e lhe entrega um caso de teste que o quebra, isso certamente vale mais que mil horas de discussão sobre a estética do projeto. Se você está se comunicando com clareza, você vai saber o que testar e medir, aprendendendo ainda mais sobre o sistema.
 
+\section{\emph{Entrega Contínua}}
 
+A entrega contínua pode ser entendida como um padrão utilizado no desenvolvimento de software de modo a automatizar os processos de construção, testes e entrega \cite{humble2010continuous}.
 
+\begin{figure}[htb]
+  \centering
+  \includegraphics[width=0.8\textwidth]{./fig/continuousDelivery}
+  \caption{Diagrama de sequência da entrega contínua \cite{humble2010continuous}.}
+  \label{fig:fig4}
+\end{figure}
+
+A figura \ref{fig:fig3} apresenta o conjunto de validações por meio do qual um pedaço de software deve passar em seu caminho para a liberação. O código é compilado, caso necessário e, em seguida, embalado por um servidor de compilação cada vez que uma mudança é enviada a um repositório de controle de versão, em seguida, testado por um número de diferentes técnicas (possivelmente incluindo o teste manual) antes que possa ser marcado como disponível para produção.
