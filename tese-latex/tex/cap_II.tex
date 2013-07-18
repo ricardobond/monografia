@@ -229,6 +229,27 @@ O conceito do \emph{feedback} pode ser encontrado como apoio a diversas áreas, i
 
 \cite[p. 35]{beck2004extreme} afirma ainda que \emph{feedbacks} concretos trabalham em conjunto com a comunicação e simplicidade. Quanto mais \emph{feedback} você tem, mais fácil de se comunicar. Se alguém tem uma objeção a algum código que você escreveu e lhe entrega um caso de teste que o quebra, isso certamente vale mais que mil horas de discussão sobre a estética do projeto. Se você está se comunicando com clareza, você vai saber o que testar e medir, aprendendendo ainda mais sobre o sistema.
 
+\subsection{Ciclo de Feedback}
+
+A figura \ref{fig:fig4} representa o ciclo de \emph{feedback} que está no centro da Startup Enxuta e guia as atividades da empresa durante suas tentativas de estabelecer um modelo de negócios repetitível e escalável \cite{ries2011lean}.
+
+Para aplicar o ciclo de \emph{feedback} em uma \emph{startup} é preciso primeiro identificar quais hipóteses serão testadas, à essas hipóteses dá-se o nome de "atos de fé".
+
+Para \cite[p. 76]{ries2011lean} os dois mais importante saltos de fé são os de valor e de crescimento. Eles vão originar variáveis sintonizadas que controlam o crescimento da Startup. Cada iteração do ciclo vai validar as hipóteses e garantir o progresso da empresa. Quando o resultados esperados forem atingidos e o processo repetido várias vezes, muda--se a direção do projeto para uma escala maior.
+
+Uma vez evidentes as suposições do tipo ato de fé, o primeiro passo é entrar na fase de desenvolver (Build) o quanto antes um MVP que permitirá dar uma volta completa no ciclo com o mínimo de esforço e com o menor tempo de desenvolvimento, tem--se então o produto a ser testado no mercado.
+
+Ao ingressar na fase medir (Measure) o maior desafio do empreendedor é determinar se os esforços de desenvolvimento do produto levarão a um progresso real da \emph{startup}.
+
+Por último e o mais importante é decidido sobre o pivot. Quando a equipe completa o ciclo Construir--Medir--Aprender, o empreendedor deve decidir, qual foi o aprendizado durante os outros passos. Se os resultados obtidos forem otimistas, então perseverar (em inglês, persevere) na mesma estratégia é uma boa escolha. Caso contrário, é aconselhado uma mudançaa na estratégia (em inglês, pivot). Outra atividade importante é a reavaliação das hipóteses, se uma delas estiver falsa, então será preciso mudá--la.
+
+\begin{figure}[htb]
+  \centering
+  \includegraphics[width=0.8\textwidth]{./fig/feedbackLoop}
+  \caption{O ciclo de \emph{feedback} \cite{ries2011lean}.}
+  \label{fig:fig4}
+\end{figure}
+
 \section{\emph{Entrega Contínua}}
 
 A entrega contínua pode ser entendida como um padrão utilizado no desenvolvimento de software de modo a automatizar os processos de construção, testes e entrega \cite{humble2010continuous}.
@@ -237,7 +258,7 @@ A entrega contínua pode ser entendida como um padrão utilizado no desenvolviment
   \centering
   \includegraphics[width=0.8\textwidth]{./fig/continuousDelivery}
   \caption{Diagrama de sequência da entrega contínua \cite{humble2010continuous}.}
-  \label{fig:fig4}
+  \label{fig:fig5}
 \end{figure}
 
-A figura \ref{fig:fig3} apresenta o conjunto de validações por meio do qual um pedaço de software deve passar em seu caminho para a liberação. O código é compilado, caso necessário e, em seguida, embalado por um servidor de compilação cada vez que uma mudança é enviada a um repositório de controle de versão, em seguida, testado por um número de diferentes técnicas (possivelmente incluindo o teste manual) antes que possa ser marcado como disponível para produção.
+A figura \ref{fig:fig5} apresenta o conjunto de validações por meio do qual um pedaço de software deve passar em seu caminho para a liberação. O código é compilado, caso necessário e, em seguida, embalado por um servidor de compilação cada vez que uma mudança é enviada a um repositório de controle de versão, em seguida, testado por um número de diferentes técnicas (possivelmente incluindo o teste manual) antes que possa ser marcado como disponível para produção.

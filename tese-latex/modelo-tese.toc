@@ -6,10 +6,10 @@
 \contentsline {chapter}{\numberline {1}Introdu\c c\~ao}{15}{chapter.2}
 \contentsline {section}{\numberline {1.1}Contexto}{15}{section.3}
 \contentsline {section}{\numberline {1.2}Motiva\c c\~ao}{18}{section.4}
-\contentsline {section}{\numberline {1.3}Objetivos}{18}{section.5}
-\contentsline {subsection}{\numberline {1.3.1}Objetivo Geral}{18}{subsection.6}
-\contentsline {subsection}{\numberline {1.3.2}Objetivos Espec{\'i}ficos}{18}{subsection.7}
-\contentsline {section}{\numberline {1.4}Metodologia}{18}{section.13}
+\contentsline {section}{\numberline {1.3}Objetivos}{19}{section.5}
+\contentsline {subsection}{\numberline {1.3.1}Objetivo Geral}{19}{subsection.6}
+\contentsline {subsection}{\numberline {1.3.2}Objetivos Espec{\'i}ficos}{19}{subsection.7}
+\contentsline {section}{\numberline {1.4}Metodologia}{19}{section.13}
 \contentsline {section}{\numberline {1.5}Organiza\c c\~ao do Trabalho}{19}{section.14}
 \contentsline {chapter}{\numberline {2}Fundamenta\c c\~ao Te\'orica}{20}{chapter.15}
 \contentsline {section}{\numberline {2.1}Empreendedorismo}{20}{section.16}
@@ -23,12 +23,20 @@
 \contentsline {section}{\numberline {2.9}\emph {Business Model Canvas}}{27}{section.37}
 \contentsline {section}{\numberline {2.10}\emph {Lean Canvas}}{28}{section.42}
 \contentsline {section}{\numberline {2.11}\emph {Feedback}}{30}{section.53}
-\contentsline {section}{\numberline {2.12}\emph {Entrega Cont\IeC {\'\i }nua}}{30}{section.54}
-\contentsline {chapter}{\numberline {3}Uma \emph {GEM} para construir MVP's}{32}{chapter.56}
-\contentsline {section}{\numberline {3.1}Descri\~A\IeC {\S }\~A\IeC {\pounds }o do conceito}{32}{section.57}
-\contentsline {chapter}{\numberline {4}Considera\c {c}\~oes finais}{33}{chapter.58}
-\contentsline {section}{\numberline {4.1}Limita\c {c}\~oes e dificuldades encontradas}{33}{section.59}
-\contentsline {section}{\numberline {4.2}Conclus\~ao}{33}{section.60}
-\contentsline {section}{\numberline {4.3}Trabalhos futuros}{34}{section.61}
-\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{35}{section.61}
+\contentsline {subsection}{\numberline {2.11.1}Ciclo de Feedback}{30}{subsection.54}
+\contentsline {section}{\numberline {2.12}\emph {Entrega Cont\IeC {\'\i }nua}}{32}{section.56}
+\contentsline {chapter}{\numberline {3}Uma \emph {GEM} para construir MVP's}{33}{chapter.58}
+\contentsline {section}{\numberline {3.1}Tecnologias Empregadas}{33}{section.59}
+\contentsline {subsection}{\numberline {3.1.1}Ruby}{33}{subsection.60}
+\contentsline {subsection}{\numberline {3.1.2}Ruby on Rails}{33}{subsection.61}
+\contentsline {subsection}{\numberline {3.1.3}RSpec}{34}{subsection.62}
+\contentsline {subsection}{\numberline {3.1.4}GitHub}{34}{subsection.63}
+\contentsline {subsection}{\numberline {3.1.5}Heroku}{34}{subsection.64}
+\contentsline {chapter}{\numberline {4}OI EU SOU UM TESTE}{35}{chapter.65}
+\contentsline {section}{\numberline {4.1}TESTE}{35}{section.66}
+\contentsline {chapter}{\numberline {5}Considera\c {c}\~oes finais}{36}{chapter.67}
+\contentsline {section}{\numberline {5.1}Limita\c {c}\~oes e dificuldades encontradas}{36}{section.68}
+\contentsline {section}{\numberline {5.2}Conclus\~ao}{36}{section.69}
+\contentsline {section}{\numberline {5.3}Trabalhos futuros}{37}{section.70}
+\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{38}{section.70}
 \contentsfinish 

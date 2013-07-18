@@ -5,6 +5,10 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{1.45.2.1 }
 
+\bibitem[Akita 2006]{akita2006repensando}
+\abntrefinfo{Akita}{AKITA}{2006}
+{AKITA, F. \emph{Repensando a Web com Rails}. [S.l.]: Brasport, 2006.}
+
 \bibitem[Baron e Shane 2007]{baron2007empreendedorismo}
 \abntrefinfo{Baron e Shane}{BARON; SHANE}{2007}
 {BARON, R.~A.; SHANE, S.~A. \emph{Empreendedorismo: uma vis{\~a}o do processo}.
@@ -58,11 +62,21 @@
 {DRUCKER, P.~F. \emph{Inova{\c{c}}{\~a}o e ep{\'\i}rito empreendedor}. [S.l.]:
   Cengage Learning Editores, 2008.}
 
+\bibitem[Flanagan e Matsumoto 2008]{flanagan2008ruby}
+\abntrefinfo{Flanagan e Matsumoto}{FLANAGAN; MATSUMOTO}{2008}
+{FLANAGAN, D.; MATSUMOTO, Y. \emph{The ruby programming language}. [S.l.]:
+  O'Reilly, 2008.}
+
 \bibitem[Ghinato 1996]{ghinato1996sistema}
 \abntrefinfo{Ghinato}{GHINATO}{1996}
 {GHINATO, P. \emph{Sistema Toyota de produ{\c{c}}{\~a}o: mais do que
   simplesmente just-in-time automa{\c{c}}{\~a}o e zero defeitos}. [S.l.]:
   EDUCS, 1996.}
+
+\bibitem[Hartl 2012]{hartl2012ruby}
+\abntrefinfo{Hartl}{HARTL}{2012}
+{HARTL, M. \emph{Ruby on Rails Tutorial: Learn Web Development with Rails}.
+  [S.l.]: Addison-Wesley, 2012.}
 
 \bibitem[Hisrich e Peters 2004]{hisrich2004empreendedorismo}
 \abntrefinfo{Hisrich e Peters}{HISRICH; PETERS}{2004}

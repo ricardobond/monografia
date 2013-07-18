@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  17 JUL 2013 05:03
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  18 JUL 2013 17:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -680,18 +680,18 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 9.85492pt on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 27.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 28.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 10.79993pt on input line 27.
-)
-\tf@toc=\write5
-\openout5 = `modelo-tese.toc'.
-
+(Font)              scaled to size 10.79993pt on input line 28.
  [9
 
 
 
-] [10]
+])
+\tf@toc=\write5
+\openout5 = `modelo-tese.toc'.
+
+ [10]
 (./modelo-tese.lof)
 \tf@lof=\write6
 \openout6 = `modelo-tese.lof'.
@@ -735,17 +735,18 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
 
 
 ]
-Underfull \hbox (badness 1424) in paragraph at lines 24--25
+Underfull \hbox (badness 1424) in paragraph at lines 25--26
 \T1/ptm/m/n/12 pan-são da cri-a-ção de mi-cro e pe-que-nas em-pre-sas e pelo fa
 to do em-pre-en-de-dor
  []
 
 [16] [17]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 47.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 58.
+ [18]
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 68.
- [18]) (./tex/cap_II.tex [19]
+(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 79.
+) (./tex/cap_II.tex [19]
 Cap\'{\i }tulo 2.
 [20
 
@@ -764,7 +765,7 @@ tura En-xuta (ME).
 [23] [24]
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 87.
- <./fig/customerDevelopment.png, id=419, 400.49625pt x 140.525pt>
+ <./fig/customerDevelopment.png, id=466, 400.49625pt x 140.525pt>
 File: ./fig/customerDevelopment.png Graphic file (type png)
 
 <use ./fig/customerDevelopment.png>
@@ -776,7 +777,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10.95> not available
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 125.
 
-[26] [27] <./fig/businessModelCanvas.jpg, id=445, 2258.4375pt x 1669.23625pt>
+[26] [27] <./fig/businessModelCanvas.jpg, id=491, 2258.4375pt x 1669.23625pt>
 File: ./fig/businessModelCanvas.jpg Graphic file (type jpg)
 
 <use ./fig/businessModelCanvas.jpg>
@@ -787,61 +788,72 @@ Underfull \hbox (badness 10000) in paragraph at lines 179--179
 [][]|\T1/ptm/m/it/10.95 O Bu-si-ness Mo-del Can-vas de Os-terwal-der
  []
 
-<./fig/leanCanvas.png, id=449, 903.375pt x 766.865pt>
+<./fig/leanCanvas.png, id=495, 903.375pt x 766.865pt>
 File: ./fig/leanCanvas.png Graphic file (type png)
 
 <use ./fig/leanCanvas.png>
 Package pdftex.def Info: ./fig/leanCanvas.png used on input line 191.
 (pdftex.def)             Requested size: 341.43436pt x 289.84375pt.
- [28 <./fig/businessModelCanvas.jpg>] [29 <./fig/leanCanvas.png>] <./fig/contin
-uousDelivery.png, id=475, 887.315pt x 644.4075pt>
+ [28 <./fig/businessModelCanvas.jpg>] [29 <./fig/leanCanvas.png>] [30] <./fig/f
+eedbackLoop.png, id=529, 427.5975pt x 445.665pt>
+File: ./fig/feedbackLoop.png Graphic file (type png)
+
+<use ./fig/feedbackLoop.png>
+Package pdftex.def Info: ./fig/feedbackLoop.png used on input line 248.
+(pdftex.def)             Requested size: 341.43436pt x 355.85925pt.
+ [31 <./fig/feedbackLoop.png>]
+<./fig/continuousDelivery.png, id=537, 887.315pt x 644.4075pt>
 File: ./fig/continuousDelivery.png Graphic file (type png)
 
 <use ./fig/continuousDelivery.png>
-Package pdftex.def Info: ./fig/continuousDelivery.png used on input line 238.
+Package pdftex.def Info: ./fig/continuousDelivery.png used on input line 259.
 (pdftex.def)             Requested size: 341.43436pt x 247.95508pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--239
+Underfull \hbox (badness 10000) in paragraph at lines 260--260
 [][]|\T1/ptm/m/it/10.95 Di-a-grama de sequên-cia da en-trega con-tí-nua
  []
 
-) (./tex/cap_III.tex [30] [31 <./fig/continuousDelivery.png>]
+) (./tex/cap_III.tex [32 <./fig/continuousDelivery.png>]
 Cap\'{\i }tulo 3.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <20.74> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 1.
-) (./tex/cap_V.tex [32
-
-]
-Cap\'{\i }tulo 4.
 [33
 
-]) [34] (./modelo-tese.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
+]) (./tex/cap_IV.tex [34]
+Cap\'{\i }tulo 4.
+) (./tex/cap_V.tex [35
+
+]
+Cap\'{\i }tulo 5.
+[36
+
+]) [37] (./modelo-tese.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
 []\T1/ptm/m/n/12 BLANK, S. G. Why the lean start-up chan-ges everything.
  []
 
-[35
+[38
 
 
-]) [36] 
+]) [39] 
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 107.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 107.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
 (./modelo-tese.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 107.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 107.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 108.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 108.
 Package rerunfilecheck Info: File `modelo-tese.out' has not changed.
-(rerunfilecheck)             Checksum: 97C90BBC0DB9E702D1A8B336DB11355F;2879.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 107.
+(rerunfilecheck)             Checksum: AEBE70159DBDA564B50482543D500BB5;3367.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
  ) 
 Here is how much of TeX's memory you used:
- 10498 strings out of 493488
- 153606 string characters out of 3141326
- 276340 words of memory out of 3000000
- 13414 multiletter control sequences out of 15000+200000
+ 10536 strings out of 493488
+ 154191 string characters out of 3141326
+ 277573 words of memory out of 3000000
+ 13433 multiletter control sequences out of 15000+200000
  111806 words of font info for 107 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 43i,11n,45p,1442b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,12n,46p,1442b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2012/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2
@@ -851,10 +863,10 @@ t/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/ty
 pe1/urw/times/utmbi8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/t
 imes/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmri
 8a.pfb>
-Output written on modelo-tese.pdf (38 pages, 1060027 bytes).
+Output written on modelo-tese.pdf (41 pages, 1098230 bytes).
 PDF statistics:
- 571 PDF objects out of 1000 (max. 8388607)
- 508 compressed objects within 6 object streams
- 135 named destinations out of 1000 (max. 500000)
- 373 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 645 PDF objects out of 1000 (max. 8388607)
+ 577 compressed objects within 6 object streams
+ 150 named destinations out of 1000 (max. 500000)
+ 442 words of extra memory for PDF output out of 10000 (max. 10000000)
 
