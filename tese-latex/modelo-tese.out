@@ -36,17 +36,20 @@
 \BOOKMARK [1][-]{section.53}{2.11 Feedback}{chapter.15}% 36
 \BOOKMARK [2][-]{subsection.54}{2.11.1 Ciclo de Feedback}{section.53}% 37
 \BOOKMARK [1][-]{section.56}{2.12 Entrega Cont\355nua}{chapter.15}% 38
-\BOOKMARK [0][-]{chapter.58}{3 Uma GEM para construir MVP's}{}% 39
-\BOOKMARK [1][-]{section.59}{3.1 Tecnologias Empregadas}{chapter.58}% 40
-\BOOKMARK [2][-]{subsection.60}{3.1.1 Ruby}{section.59}% 41
-\BOOKMARK [2][-]{subsection.61}{3.1.2 Ruby on Rails}{section.59}% 42
-\BOOKMARK [2][-]{subsection.62}{3.1.3 RSpec}{section.59}% 43
-\BOOKMARK [2][-]{subsection.63}{3.1.4 GitHub}{section.59}% 44
-\BOOKMARK [2][-]{subsection.64}{3.1.5 Heroku}{section.59}% 45
-\BOOKMARK [0][-]{chapter.65}{4 OI EU SOU UM TESTE}{}% 46
-\BOOKMARK [1][-]{section.66}{4.1 TESTE}{chapter.65}% 47
-\BOOKMARK [0][-]{chapter.67}{5 Considera\347\365es finais}{}% 48
-\BOOKMARK [1][-]{section.68}{5.1 Limita\347\365es e dificuldades encontradas}{chapter.67}% 49
-\BOOKMARK [1][-]{section.69}{5.2 Conclus\343o}{chapter.67}% 50
-\BOOKMARK [1][-]{section.70}{5.3 Trabalhos futuros}{chapter.67}% 51
-\BOOKMARK [0][-]{section.70}{Refer\352ncias Bibliogr\341ficas}{}% 52
+\BOOKMARK [0][-]{chapter.58}{3 Perpetuus, uma GEM para construir MVP's}{}% 39
+\BOOKMARK [1][-]{section.59}{3.1 Descri\347\343o da GEM}{chapter.58}% 40
+\BOOKMARK [1][-]{section.60}{3.2 Requisitos de Sistema}{chapter.58}% 41
+\BOOKMARK [1][-]{section.61}{3.3 Tecnologias Empregadas}{chapter.58}% 42
+\BOOKMARK [2][-]{subsection.62}{3.3.1 Ruby}{section.61}% 43
+\BOOKMARK [2][-]{subsection.63}{3.3.2 Ruby on Rails}{section.61}% 44
+\BOOKMARK [2][-]{subsection.64}{3.3.3 RSpec}{section.61}% 45
+\BOOKMARK [2][-]{subsection.65}{3.3.4 GitHub}{section.61}% 46
+\BOOKMARK [2][-]{subsection.66}{3.3.5 Heroku}{section.61}% 47
+\BOOKMARK [1][-]{section.67}{3.4 Funcionamento da GEM}{chapter.58}% 48
+\BOOKMARK [0][-]{chapter.68}{4 OI EU SOU UM TESTE}{}% 49
+\BOOKMARK [1][-]{section.69}{4.1 TESTE}{chapter.68}% 50
+\BOOKMARK [0][-]{chapter.70}{5 Considera\347\365es finais}{}% 51
+\BOOKMARK [1][-]{section.71}{5.1 Limita\347\365es e dificuldades encontradas}{chapter.70}% 52
+\BOOKMARK [1][-]{section.72}{5.2 Conclus\343o}{chapter.70}% 53
+\BOOKMARK [1][-]{section.73}{5.3 Trabalhos futuros}{chapter.70}% 54
+\BOOKMARK [0][-]{section.73}{Refer\352ncias Bibliogr\341ficas}{}% 55

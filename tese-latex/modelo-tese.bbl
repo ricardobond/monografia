@@ -42,6 +42,11 @@
 {BLANK, S.~G.; DORF, B. \emph{The startup owner's manual: the step-by-step
   guide for building a great company}. [S.l.]: K\&S Ranch, Incorporated, 2012.}
 
+\bibitem[Chelimsky et al. 2010]{chelimsky2010rspec}
+\abntrefinfo{Chelimsky et al.}{CHELIMSKY et al.}{2010}
+{CHELIMSKY, D. et al. \emph{The rspec book: Behaviour driven development with
+  rspec, cucumber, and friends}. [S.l.]: Pragmatic Bookshelf, 2010.}
+
 \bibitem[Costa, Barros e Carvalho 2011]{da2011dimensao}
 \abntrefinfo{Costa, Barros e Carvalho}{COSTA; BARROS; CARVALHO}{2011}
 {COSTA, A.~M. da; BARROS, D.~F.; CARVALHO, J. L.~F. A dimens{\~a}o
@@ -100,6 +105,17 @@
 {KELLEY, D.~J.; SINGER, S.; HERRINGTON, M.~D. The global entrepreneurship
   monitor.
 \emph{2011 Global Report, GEM 2011}, 2012.}
+
+\bibitem[Kemp e Gyger 2013]{kemp2013professional}
+\abntrefinfo{Kemp e Gyger}{KEMP; GYGER}{2013}
+{KEMP, C.; GYGER, B. \emph{Professional Heroku Programming}. [S.l.]: John Wiley
+  \& Sons, 2013.}
+
+\bibitem[Loeliger e McCullough 2012]{loeliger2012version}
+\abntrefinfo{Loeliger e McCullough}{LOELIGER; MCCULLOUGH}{2012}
+{LOELIGER, J.; MCCULLOUGH, M. \emph{Version Control with Git: Powerful tools
+  and techniques for collaborative software development}. [S.l.]: O'Reilly
+  Media, Inc., 2012.}
 
 \bibitem[Maurya 2012]{maurya2012running}
 \abntrefinfo{Maurya}{MAURYA}{2012}
