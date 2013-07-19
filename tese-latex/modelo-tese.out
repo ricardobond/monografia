@@ -34,24 +34,25 @@
 \BOOKMARK [1][-]{section.52}{2.11 Feedback}{chapter.14}% 34
 \BOOKMARK [2][-]{subsection.53}{2.11.1 Ciclo de Feedback}{section.52}% 35
 \BOOKMARK [1][-]{section.55}{2.12 Entrega Cont\355nua}{chapter.14}% 36
-\BOOKMARK [0][-]{chapter.57}{3 Perpetuus, uma Gem para construir MVP's}{}% 37
-\BOOKMARK [1][-]{section.58}{3.1 O conceito de Gem}{chapter.57}% 38
-\BOOKMARK [1][-]{section.59}{3.2 Descri\347\343o da Perpetuus Gem}{chapter.57}% 39
-\BOOKMARK [1][-]{section.60}{3.3 Requisitos de Sistema}{chapter.57}% 40
-\BOOKMARK [1][-]{section.61}{3.4 Tecnologias Empregadas}{chapter.57}% 41
-\BOOKMARK [2][-]{subsection.62}{3.4.1 Ruby}{section.61}% 42
-\BOOKMARK [2][-]{subsection.63}{3.4.2 Ruby on Rails}{section.61}% 43
-\BOOKMARK [2][-]{subsection.64}{3.4.3 RSpec}{section.61}% 44
-\BOOKMARK [2][-]{subsection.65}{3.4.4 GitHub}{section.61}% 45
-\BOOKMARK [2][-]{subsection.66}{3.4.5 Heroku}{section.61}% 46
-\BOOKMARK [2][-]{subsection.67}{3.4.6 Travis}{section.61}% 47
-\BOOKMARK [1][-]{section.68}{3.5 Funcionamento da GEM}{chapter.57}% 48
-\BOOKMARK [2][-]{subsection.69}{3.5.1 O comando perpetuus setup}{section.68}% 49
-\BOOKMARK [2][-]{subsection.75}{3.5.2 O comando perpetuus deploy}{section.68}% 50
-\BOOKMARK [0][-]{chapter.78}{4 OI EU SOU UM TESTE}{}% 51
-\BOOKMARK [1][-]{section.79}{4.1 TESTE}{chapter.78}% 52
-\BOOKMARK [0][-]{chapter.80}{5 Considera\347\365es finais}{}% 53
-\BOOKMARK [1][-]{section.81}{5.1 Limita\347\365es e dificuldades encontradas}{chapter.80}% 54
-\BOOKMARK [1][-]{section.82}{5.2 Conclus\343o}{chapter.80}% 55
-\BOOKMARK [1][-]{section.83}{5.3 Trabalhos futuros}{chapter.80}% 56
-\BOOKMARK [0][-]{section.83}{Refer\352ncias Bibliogr\341ficas}{}% 57
+\BOOKMARK [0][-]{chapter.57}{3 OI EU SOU UM TESTE}{}% 37
+\BOOKMARK [1][-]{section.58}{3.1 TESTE}{chapter.57}% 38
+\BOOKMARK [0][-]{chapter.59}{4 Perpetuus, uma Gem para construir MVP's}{}% 39
+\BOOKMARK [1][-]{section.60}{4.1 O conceito de Gem}{chapter.59}% 40
+\BOOKMARK [1][-]{section.61}{4.2 Descri\347\343o da Perpetuus Gem}{chapter.59}% 41
+\BOOKMARK [1][-]{section.62}{4.3 Requisitos de Sistema}{chapter.59}% 42
+\BOOKMARK [1][-]{section.63}{4.4 Tecnologias Empregadas}{chapter.59}% 43
+\BOOKMARK [2][-]{subsection.64}{4.4.1 Ruby}{section.63}% 44
+\BOOKMARK [2][-]{subsection.65}{4.4.2 Ruby on Rails}{section.63}% 45
+\BOOKMARK [2][-]{subsection.66}{4.4.3 RSpec}{section.63}% 46
+\BOOKMARK [2][-]{subsection.67}{4.4.4 GitHub}{section.63}% 47
+\BOOKMARK [2][-]{subsection.68}{4.4.5 Heroku}{section.63}% 48
+\BOOKMARK [2][-]{subsection.69}{4.4.6 Travis}{section.63}% 49
+\BOOKMARK [1][-]{section.70}{4.5 Instala\347\343o}{chapter.59}% 50
+\BOOKMARK [1][-]{section.71}{4.6 Funcionamento da Gem}{chapter.59}% 51
+\BOOKMARK [2][-]{subsection.72}{4.6.1 O comando perpetuus setup}{section.71}% 52
+\BOOKMARK [2][-]{subsection.78}{4.6.2 O comando perpetuus deploy}{section.71}% 53
+\BOOKMARK [0][-]{chapter.82}{5 Considera\347\365es finais}{}% 54
+\BOOKMARK [1][-]{section.83}{5.1 Limita\347\365es e dificuldades encontradas}{chapter.82}% 55
+\BOOKMARK [1][-]{section.84}{5.2 Conclus\343o}{chapter.82}% 56
+\BOOKMARK [1][-]{section.85}{5.3 Trabalhos futuros}{chapter.82}% 57
+\BOOKMARK [0][-]{section.85}{Refer\352ncias Bibliogr\341ficas}{}% 58

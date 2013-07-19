@@ -1,19 +1,20 @@
 \select@language {brazil}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces O modelo Customer Development \cite {blankharvard}.\relax }}{23}{figure.caption.32}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces O Business Model Canvas de Osterwalder \cite {osterwalder2010business}.\relax }}{26}{figure.caption.40}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces O Lean Canvas de Ash Muraya \cite {maurya2012running}.\relax }}{27}{figure.caption.42}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces O ciclo de \emph {feedback} \cite {ries2011lean}.\relax }}{29}{figure.caption.54}
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Diagrama de sequ\^encia da entrega cont\IeC {\'\i }nua \cite {humble2010continuous}.\relax }}{30}{figure.caption.56}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces O modelo Customer Development \cite {blankharvard}.\relax }}{24}{figure.caption.32}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces O Business Model Canvas de Osterwalder \cite {osterwalder2010business}.\relax }}{27}{figure.caption.40}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces O Lean Canvas de Ash Muraya \cite {maurya2012running}.\relax }}{28}{figure.caption.42}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces O ciclo de \emph {feedback} \cite {ries2011lean}.\relax }}{30}{figure.caption.54}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Diagrama de sequ\^encia da entrega cont\IeC {\'\i }nua \cite {humble2010continuous}.\relax }}{31}{figure.caption.56}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Tela inicial do \emph {plugin} para o usu\'ario inserir o nome do projeto\relax }}{34}{figure.caption.70}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Tela inicial de defini\c {c}\~ao do banco de dados a ser utilizado.\relax }}{34}{figure.caption.71}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Tela para defini\c {c}\~ao do nome do aplicativo.\relax }}{35}{figure.caption.72}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Tela para redefini\c {c}\~ao do nome do aplicativo.\relax }}{35}{figure.caption.73}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Resposta do servidor de hospedagem Heroku.\relax }}{36}{figure.caption.74}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Caminho percorrido pelo c\'odigo fonte at\'e estar dispon\'ivel aos clientes em forma de aplicativo.\relax }}{36}{figure.caption.76}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces \emph {Deploy} interrompido por causa de falhas na montagem do aplicativo pelo servi\c {c}o Travis.\relax }}{37}{figure.caption.77}
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Tela inicial do \emph {plugin} para o usu\'ario inserir o nome do projeto\relax }}{36}{figure.caption.73}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Tela inicial de defini\c {c}\~ao do banco de dados a ser utilizado.\relax }}{36}{figure.caption.74}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Tela para defini\c {c}\~ao do nome do aplicativo.\relax }}{37}{figure.caption.75}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Tela para redefini\c {c}\~ao do nome do aplicativo.\relax }}{37}{figure.caption.76}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Resposta do servidor de hospedagem Heroku.\relax }}{38}{figure.caption.77}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Caminho percorrido pelo c\'odigo fonte at\'e estar dispon\'ivel aos clientes em forma de aplicativo.\relax }}{38}{figure.caption.79}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces \emph {Deploy} interrompido por causa de falhas na montagem do aplicativo pelo servi\c {c}o Travis.\relax }}{39}{figure.caption.80}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Sa\'ida do console de execu\c {c}\~ao da tarefa de \emph {deploy} do MVP\relax }}{39}{figure.caption.81}
 \addvspace {10\p@ }
 \contentsfinish 
