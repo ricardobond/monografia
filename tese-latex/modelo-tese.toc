@@ -25,24 +25,24 @@
 \contentsline {section}{\numberline {2.12}\emph {Entrega Cont\IeC {\'\i }nua}}{31}{section.55}
 \contentsline {chapter}{\numberline {3}OI EU SOU UM TESTE}{32}{chapter.57}
 \contentsline {section}{\numberline {3.1}TESTE}{32}{section.58}
-\contentsline {chapter}{\numberline {4}Perpetuus, uma \emph {Gem} para construir MVP's}{33}{chapter.59}
-\contentsline {section}{\numberline {4.1}O conceito de Gem}{33}{section.60}
-\contentsline {section}{\numberline {4.2}Descri\c {c}\~ao da Perpetuus Gem}{33}{section.61}
-\contentsline {section}{\numberline {4.3}Requisitos de Sistema}{33}{section.62}
-\contentsline {section}{\numberline {4.4}Tecnologias Empregadas}{34}{section.63}
-\contentsline {subsection}{\numberline {4.4.1}Ruby}{34}{subsection.64}
-\contentsline {subsection}{\numberline {4.4.2}Ruby on Rails}{34}{subsection.65}
-\contentsline {subsection}{\numberline {4.4.3}RSpec}{34}{subsection.66}
-\contentsline {subsection}{\numberline {4.4.4}GitHub}{35}{subsection.67}
-\contentsline {subsection}{\numberline {4.4.5}Heroku}{35}{subsection.68}
-\contentsline {subsection}{\numberline {4.4.6}Travis}{35}{subsection.69}
-\contentsline {section}{\numberline {4.5}Instala\c {c}\~ao}{35}{section.70}
-\contentsline {section}{\numberline {4.6}Funcionamento da Gem}{35}{section.71}
-\contentsline {subsection}{\numberline {4.6.1}O comando \emph {perpetuus setup}}{35}{subsection.72}
-\contentsline {subsection}{\numberline {4.6.2}O comando \emph {perpetuus deploy}}{38}{subsection.78}
-\contentsline {chapter}{\numberline {5}Considera\c {c}\~oes finais}{40}{chapter.82}
-\contentsline {section}{\numberline {5.1}Limita\c {c}\~oes e dificuldades encontradas}{40}{section.83}
-\contentsline {section}{\numberline {5.2}Conclus\~ao}{40}{section.84}
-\contentsline {section}{\numberline {5.3}Trabalhos futuros}{41}{section.85}
-\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{42}{section.85}
+\contentsline {chapter}{\numberline {4}Perpetuus, uma \emph {Gem} para construir MVP's}{35}{chapter.69}
+\contentsline {section}{\numberline {4.1}O conceito de Gem}{35}{section.70}
+\contentsline {section}{\numberline {4.2}Descri\c {c}\~ao da Perpetuus Gem}{35}{section.71}
+\contentsline {section}{\numberline {4.3}Requisitos de Sistema}{35}{section.72}
+\contentsline {section}{\numberline {4.4}Tecnologias Empregadas}{36}{section.73}
+\contentsline {subsection}{\numberline {4.4.1}Ruby}{36}{subsection.74}
+\contentsline {subsection}{\numberline {4.4.2}Ruby on Rails}{36}{subsection.75}
+\contentsline {subsection}{\numberline {4.4.3}RSpec}{36}{subsection.76}
+\contentsline {subsection}{\numberline {4.4.4}GitHub}{37}{subsection.77}
+\contentsline {subsection}{\numberline {4.4.5}Heroku}{37}{subsection.78}
+\contentsline {subsection}{\numberline {4.4.6}Travis}{37}{subsection.79}
+\contentsline {section}{\numberline {4.5}Instala\c {c}\~ao}{37}{section.80}
+\contentsline {section}{\numberline {4.6}Funcionamento da Gem}{37}{section.81}
+\contentsline {subsection}{\numberline {4.6.1}O comando \emph {perpetuus setup}}{37}{subsection.82}
+\contentsline {subsection}{\numberline {4.6.2}O comando \emph {perpetuus deploy}}{40}{subsection.88}
+\contentsline {chapter}{\numberline {5}Considera\c {c}\~oes finais}{42}{chapter.92}
+\contentsline {section}{\numberline {5.1}Limita\c {c}\~oes e dificuldades encontradas}{42}{section.93}
+\contentsline {section}{\numberline {5.2}Conclus\~ao}{42}{section.94}
+\contentsline {section}{\numberline {5.3}Trabalhos futuros}{43}{section.95}
+\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{44}{section.95}
 \contentsfinish 
