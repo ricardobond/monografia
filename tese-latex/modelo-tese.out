@@ -12,44 +12,46 @@
 \BOOKMARK [0][-]{sumario.0}{Sum\341rio}{}% 12
 \BOOKMARK [0][-]{Doc-Start}{Lista de Figuras}{}% 13
 \BOOKMARK [0][-]{Doc-Start}{Lista de Tabelas}{}% 14
-\BOOKMARK [0][-]{Doc-Start}{Lista de Algoritmos}{}% 15
-\BOOKMARK [0][-]{section*.1}{Lista de C\363digos de Programas}{}% 16
-\BOOKMARK [0][-]{chapter.2}{1 Introdu\347\343o}{}% 17
-\BOOKMARK [1][-]{section.3}{1.1 Contexto}{chapter.2}% 18
-\BOOKMARK [1][-]{section.4}{1.2 Motiva\347\343o}{chapter.2}% 19
-\BOOKMARK [1][-]{section.5}{1.3 Objetivos}{chapter.2}% 20
-\BOOKMARK [2][-]{subsection.6}{1.3.1 Objetivo Geral}{section.5}% 21
-\BOOKMARK [2][-]{subsection.7}{1.3.2 Objetivos Espec\355ficos}{section.5}% 22
-\BOOKMARK [1][-]{section.13}{1.4 Metodologia}{chapter.2}% 23
-\BOOKMARK [1][-]{section.14}{1.5 Organiza\347\343o do Trabalho}{chapter.2}% 24
-\BOOKMARK [0][-]{chapter.15}{2 Fundamenta\347\343o Te\363rica}{}% 25
-\BOOKMARK [1][-]{section.16}{2.1 Empreendedorismo}{chapter.15}% 26
-\BOOKMARK [1][-]{section.17}{2.2 Startup}{chapter.15}% 27
-\BOOKMARK [1][-]{section.18}{2.3 Manufatura Enxuta}{chapter.15}% 28
-\BOOKMARK [1][-]{section.31}{2.4 O Lean Startup}{chapter.15}% 29
-\BOOKMARK [1][-]{section.32}{2.5 Customer Development}{chapter.15}% 30
-\BOOKMARK [1][-]{section.34}{2.6 Desenvolvimento \341gil}{chapter.15}% 31
-\BOOKMARK [1][-]{section.35}{2.7 Plataformas tecnol\363gicas como commodities}{chapter.15}% 32
-\BOOKMARK [1][-]{section.36}{2.8 MVP: Minimum Viable Product}{chapter.15}% 33
-\BOOKMARK [1][-]{section.37}{2.9 Business Model Canvas}{chapter.15}% 34
-\BOOKMARK [1][-]{section.42}{2.10 Lean Canvas}{chapter.15}% 35
-\BOOKMARK [1][-]{section.53}{2.11 Feedback}{chapter.15}% 36
-\BOOKMARK [2][-]{subsection.54}{2.11.1 Ciclo de Feedback}{section.53}% 37
-\BOOKMARK [1][-]{section.56}{2.12 Entrega Cont\355nua}{chapter.15}% 38
-\BOOKMARK [0][-]{chapter.58}{3 Perpetuus, uma GEM para construir MVP's}{}% 39
-\BOOKMARK [1][-]{section.59}{3.1 Descri\347\343o da GEM}{chapter.58}% 40
-\BOOKMARK [1][-]{section.60}{3.2 Requisitos de Sistema}{chapter.58}% 41
-\BOOKMARK [1][-]{section.61}{3.3 Tecnologias Empregadas}{chapter.58}% 42
-\BOOKMARK [2][-]{subsection.62}{3.3.1 Ruby}{section.61}% 43
-\BOOKMARK [2][-]{subsection.63}{3.3.2 Ruby on Rails}{section.61}% 44
-\BOOKMARK [2][-]{subsection.64}{3.3.3 RSpec}{section.61}% 45
-\BOOKMARK [2][-]{subsection.65}{3.3.4 GitHub}{section.61}% 46
-\BOOKMARK [2][-]{subsection.66}{3.3.5 Heroku}{section.61}% 47
-\BOOKMARK [1][-]{section.67}{3.4 Funcionamento da GEM}{chapter.58}% 48
-\BOOKMARK [0][-]{chapter.68}{4 OI EU SOU UM TESTE}{}% 49
-\BOOKMARK [1][-]{section.69}{4.1 TESTE}{chapter.68}% 50
-\BOOKMARK [0][-]{chapter.70}{5 Considera\347\365es finais}{}% 51
-\BOOKMARK [1][-]{section.71}{5.1 Limita\347\365es e dificuldades encontradas}{chapter.70}% 52
-\BOOKMARK [1][-]{section.72}{5.2 Conclus\343o}{chapter.70}% 53
-\BOOKMARK [1][-]{section.73}{5.3 Trabalhos futuros}{chapter.70}% 54
-\BOOKMARK [0][-]{section.73}{Refer\352ncias Bibliogr\341ficas}{}% 55
+\BOOKMARK [0][-]{chapter.1}{1 Introdu\347\343o}{}% 15
+\BOOKMARK [1][-]{section.2}{1.1 Contexto}{chapter.1}% 16
+\BOOKMARK [1][-]{section.3}{1.2 Motiva\347\343o}{chapter.1}% 17
+\BOOKMARK [1][-]{section.4}{1.3 Objetivos}{chapter.1}% 18
+\BOOKMARK [2][-]{subsection.5}{1.3.1 Objetivo Geral}{section.4}% 19
+\BOOKMARK [2][-]{subsection.6}{1.3.2 Objetivos Espec\355ficos}{section.4}% 20
+\BOOKMARK [1][-]{section.12}{1.4 Metodologia}{chapter.1}% 21
+\BOOKMARK [1][-]{section.13}{1.5 Organiza\347\343o do Trabalho}{chapter.1}% 22
+\BOOKMARK [0][-]{chapter.14}{2 Fundamenta\347\343o Te\363rica}{}% 23
+\BOOKMARK [1][-]{section.15}{2.1 Empreendedorismo}{chapter.14}% 24
+\BOOKMARK [1][-]{section.16}{2.2 Startup}{chapter.14}% 25
+\BOOKMARK [1][-]{section.17}{2.3 Manufatura Enxuta}{chapter.14}% 26
+\BOOKMARK [1][-]{section.30}{2.4 O Lean Startup}{chapter.14}% 27
+\BOOKMARK [1][-]{section.31}{2.5 Customer Development}{chapter.14}% 28
+\BOOKMARK [1][-]{section.33}{2.6 Desenvolvimento \341gil}{chapter.14}% 29
+\BOOKMARK [1][-]{section.34}{2.7 Plataformas tecnol\363gicas como commodities}{chapter.14}% 30
+\BOOKMARK [1][-]{section.35}{2.8 MVP: Minimum Viable Product}{chapter.14}% 31
+\BOOKMARK [1][-]{section.36}{2.9 Business Model Canvas}{chapter.14}% 32
+\BOOKMARK [1][-]{section.41}{2.10 Lean Canvas}{chapter.14}% 33
+\BOOKMARK [1][-]{section.52}{2.11 Feedback}{chapter.14}% 34
+\BOOKMARK [2][-]{subsection.53}{2.11.1 Ciclo de Feedback}{section.52}% 35
+\BOOKMARK [1][-]{section.55}{2.12 Entrega Cont\355nua}{chapter.14}% 36
+\BOOKMARK [0][-]{chapter.57}{3 Perpetuus, uma Gem para construir MVP's}{}% 37
+\BOOKMARK [1][-]{section.58}{3.1 O conceito de Gem}{chapter.57}% 38
+\BOOKMARK [1][-]{section.59}{3.2 Descri\347\343o da Perpetuus Gem}{chapter.57}% 39
+\BOOKMARK [1][-]{section.60}{3.3 Requisitos de Sistema}{chapter.57}% 40
+\BOOKMARK [1][-]{section.61}{3.4 Tecnologias Empregadas}{chapter.57}% 41
+\BOOKMARK [2][-]{subsection.62}{3.4.1 Ruby}{section.61}% 42
+\BOOKMARK [2][-]{subsection.63}{3.4.2 Ruby on Rails}{section.61}% 43
+\BOOKMARK [2][-]{subsection.64}{3.4.3 RSpec}{section.61}% 44
+\BOOKMARK [2][-]{subsection.65}{3.4.4 GitHub}{section.61}% 45
+\BOOKMARK [2][-]{subsection.66}{3.4.5 Heroku}{section.61}% 46
+\BOOKMARK [2][-]{subsection.67}{3.4.6 Travis}{section.61}% 47
+\BOOKMARK [1][-]{section.68}{3.5 Funcionamento da GEM}{chapter.57}% 48
+\BOOKMARK [2][-]{subsection.69}{3.5.1 O comando perpetuus setup}{section.68}% 49
+\BOOKMARK [2][-]{subsection.75}{3.5.2 O comando perpetuus deploy}{section.68}% 50
+\BOOKMARK [0][-]{chapter.78}{4 OI EU SOU UM TESTE}{}% 51
+\BOOKMARK [1][-]{section.79}{4.1 TESTE}{chapter.78}% 52
+\BOOKMARK [0][-]{chapter.80}{5 Considera\347\365es finais}{}% 53
+\BOOKMARK [1][-]{section.81}{5.1 Limita\347\365es e dificuldades encontradas}{chapter.80}% 54
+\BOOKMARK [1][-]{section.82}{5.2 Conclus\343o}{chapter.80}% 55
+\BOOKMARK [1][-]{section.83}{5.3 Trabalhos futuros}{chapter.80}% 56
+\BOOKMARK [0][-]{section.83}{Refer\352ncias Bibliogr\341ficas}{}% 57

@@ -1,10 +1,18 @@
-\chapter{Perpetuus, uma \emph{GEM} para construir MVP's}
+\chapter{Perpetuus, uma \emph{Gem} para construir MVP's}
 \label{cap:gem}
 
 % - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-\section{Descri\c{c}\~ao da GEM}
+\section{O conceito de Gem}
 
-A \emph{gem} Perpetuus foi desenvolvida para 
+Uma Gem pode ser definida como um pacote ou uma aplica\c{c}\~ao escrito em linguagem Ruby \cite{berube2007practical}. Essas bibliotecas podem ser divulgadas e instaladas em diversos computadores que tenham suporte \`a linguagem Ruby instalado.
+
+Gems s\~ao escritas em sua maioria com o intuito de automatizar tarefas repetitivas e fornecer solu\c{c}\~oes a problemas comuns a muitos desenvolvedores.
+
+\section{Descri\c{c}\~ao da Perpetuus Gem}
+
+A \emph{gem} Perpetuus foi desenvolvida para garantir que desenvolvedores \emph{web} possam construir MVP's baseados no \emph{framework} Ruby on Rails, isso permite que \emph{startups} testem suas hip\'oteses de mercado utilizando um ambiente que acelere a produ\c{c}\~ao de um produto na \emph{internet}.
+
+Perpetuus oferece um \emph{template} de aplica\c{c}\~ao Ruby on Rails integrado com o \emph{framework} RSpec para atender \`as boas pr\'aticas de programa\c{c}\~ao orientada \`a escrita de testes, dentro do pacote o desenvolvedor tamb\'em conta com um script para gera\c{c}\~ao autom\'atica do reposit\'orio de versionamento de c\'odigo utilizando o GitHub, 
 
 \section{Requisitos de Sistema}
 
@@ -49,10 +57,90 @@ Heroku \'e uma plataforma de hospedagem de servi\c{c}os na nuvem que suporta lin
 
 O diferencial do Heroku est\'a na automa\c{c}\~ao da configura\c{c}\~ao necess\'aria \`a cria\c{c}\~ao de um ambiente para colocar uma aplica\c{c}\~ao em funcionamento, assim programadores podem focar seus esfor\c{c}os no desenvolvimento do \emph{software}, ficando a cargo do Heroku juntar os m\'odulos desenvolvidos, resolver quest\~oes de depend\^encia e tornar o que antes era c\'odigo em uma aplica\c{c}\~ao dispon\'ivel aos clientes.
 
+\subsection{Travis}
+
+Travis \'e uma plataforma de servi\c{c}o respons\'avel por automatizar a montagem do c\'odigo fonte que \'e versionado em um reposit\'orio remoto como o GitHub, 
+
 \section{Funcionamento da GEM}
 
+\subsection{O comando \emph{perpetuus setup}}
 
+Para iniciar a constru\c{c}\~ao de um novo projeto, o desenvolvedor utiliza o comando "perpetuus setup", assim \'e poss\'ivel definir a estrutura inicial do MVP que ser\'a constru\'ido seguindo os passos demonstrados nas figuras \ref{fig:fig6}, \ref{fig:fig7}, \ref{fig:fig8}, \ref{fig:fig9}, \ref{fig:fig10}:
 
+\pagebreak
 
+Na figura \ref{fig:fig6} \'e pedido ao desenvolvedor que escolha um nome para o seu projeto, pois um novo diret\'orio ser\'a criado com esse nome para guardar os arquivos contidos na estrutura inicial do projeto.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.5\textwidth]{./fig/setup1}
+  \caption{Tela inicial do \emph{plugin} para o usu\'ario inserir o nome do projeto}
+  \label{fig:fig6}
+\end{figure}
+
+A figura \ref{fig:fig7} ilustra a etapa onde \'e perguntado ao desenvolvedor qual banco de dados ele quer utilizar para construir seu MVP.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.5\textwidth]{./fig/setup2}
+  \caption{Tela inicial de defini\c{c}\~ao do banco de dados a ser utilizado.}
+  \label{fig:fig7}
+\end{figure}
+
+Na figura \ref{fig:fig8} o usu\'ario pode deixar a cargo da ferramenta a escolha do nome para a aplica\c{c}\~ao a ser hospedada no Heroku.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.5\textwidth]{./fig/setup3}
+  \caption{Tela para defini\c{c}\~ao do nome do aplicativo.}
+  \label{fig:fig8}
+\end{figure}
+
+\pagebreak
+
+A figura \ref{fig:fig9} mostra o sistema pedindo ao desenvolvedor que defina outro nome para o aplicativo.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.5\textwidth]{./fig/setup4}
+  \caption{Tela para redefini\c{c}\~ao do nome do aplicativo.}
+  \label{fig:fig9}
+\end{figure}
+
+A figura \ref{fig:fig10} ilustra a primeira vers\~ao hospedada no servidor de aplica\c{c}\~ao do Heroku, na \'ultima linha \'e poss\'ivel ver o endere\c{c}o na \emph{Internet} onde o aplicativo est\'a hospedado.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.5\textwidth]{./fig/setup5}
+  \caption{Resposta do servidor de hospedagem Heroku.}
+  \label{fig:fig10}
+\end{figure}
+
+\pagebreak
+\subsection{O comando \emph{perpetuus deploy}}
+
+Ao executar o comando "perpetuus deploy" em um ambiente pr\'e--configurado pela \emph{gem} o c\'odigo fonte produzido no computador do desenvolvedor \'e primeiramente versionado no reposit\'orio de c\'odigo do GitHub, terminado esse processo \'e a vez do c\'odigo produzido ser montado pelo construtor Travis, nele os testes definidos pelo desenvolvedor (usando o \emph{framework} RSpec) s\~ao executados, caso os testes definidos passem e a aplica\c{c}\~ao consiga ser constru\'ida \'e a vez do c\'odigo ser colocado em produ\c{c}\~ao no servidor de aplica\c{c}\~ao do Heroku, ao final desse processo uma nova vers\~ao de software j\'a est\'a dispon\'ivel aos clientes. 
+
+A figura \ref{fig:fig11} ajuda a ilutrar o caminho do c\'odigo at\'e se tornar um MVP dispon\'ivel aos clientes.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.6\textwidth]{./fig/cicloDeploy}
+  \caption{Caminho percorrido pelo c\'odigo fonte at\'e estar dispon\'ivel aos clientes em forma de aplicativo.}
+  \label{fig:fig11}
+\end{figure}
+
+O processo de execu\c{c}\~ao descrito anteriormente exemplifica a constru\c{c}\~ao de \emph{software} baseado em entrega cont\'inua, metodologia ideal para o desenvolvimento de MVP's por permitir r\'apida altera\c{c}\~ao do experimento baseada no \emph{feedback} colhido ao final do ciclo construir--medir--aprender.
+
+\pagebreak
+
+A figura \ref{fig:fig12} mostra um exemplo de tentativa de \emph{deploy} da aplica\c{c}\~ao mal sucedido. Neste caso, um link \'e fornecido ao desenvolvedor com mais detalhes sobre os fatores que impediram o c\'odigo de ser incorporado \`a aplica\c{c}\~ao hospedada no servidor do Heroku.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.5\textwidth]{./fig/deploy1}
+  \caption{\emph{Deploy} interrompido por causa de falhas na montagem do aplicativo pelo servi\c{c}o Travis.}
+  \label{fig:fig12}
+\end{figure}
 
 
