@@ -23,26 +23,29 @@
 \contentsline {section}{\numberline {2.11}\emph {Feedback}}{29}{section.52}
 \contentsline {subsection}{\numberline {2.11.1}Ciclo de Feedback}{29}{subsection.53}
 \contentsline {section}{\numberline {2.12}\emph {Entrega Cont\IeC {\'\i }nua}}{31}{section.55}
-\contentsline {chapter}{\numberline {3}OI EU SOU UM TESTE}{32}{chapter.57}
-\contentsline {section}{\numberline {3.1}TESTE}{32}{section.58}
-\contentsline {chapter}{\numberline {4}Perpetuus, uma \emph {Gem} para construir MVP's}{35}{chapter.69}
-\contentsline {section}{\numberline {4.1}O conceito de Gem}{35}{section.70}
-\contentsline {section}{\numberline {4.2}Descri\c {c}\~ao da Perpetuus Gem}{35}{section.71}
-\contentsline {section}{\numberline {4.3}Requisitos de Sistema}{35}{section.72}
-\contentsline {section}{\numberline {4.4}Tecnologias Empregadas}{36}{section.73}
-\contentsline {subsection}{\numberline {4.4.1}Ruby}{36}{subsection.74}
-\contentsline {subsection}{\numberline {4.4.2}Ruby on Rails}{36}{subsection.75}
-\contentsline {subsection}{\numberline {4.4.3}RSpec}{36}{subsection.76}
-\contentsline {subsection}{\numberline {4.4.4}GitHub}{37}{subsection.77}
-\contentsline {subsection}{\numberline {4.4.5}Heroku}{37}{subsection.78}
-\contentsline {subsection}{\numberline {4.4.6}Travis}{37}{subsection.79}
-\contentsline {section}{\numberline {4.5}Instala\c {c}\~ao}{37}{section.80}
-\contentsline {section}{\numberline {4.6}Funcionamento da Gem}{37}{section.81}
-\contentsline {subsection}{\numberline {4.6.1}O comando \emph {perpetuus setup}}{37}{subsection.82}
-\contentsline {subsection}{\numberline {4.6.2}O comando \emph {perpetuus deploy}}{40}{subsection.88}
-\contentsline {chapter}{\numberline {5}Considera\c {c}\~oes finais}{42}{chapter.92}
-\contentsline {section}{\numberline {5.1}Limita\c {c}\~oes e dificuldades encontradas}{42}{section.93}
-\contentsline {section}{\numberline {5.2}Conclus\~ao}{42}{section.94}
-\contentsline {section}{\numberline {5.3}Trabalhos futuros}{43}{section.95}
-\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{44}{section.95}
+\contentsline {chapter}{\numberline {3}As 100 \emph {Startups} Goianas}{32}{chapter.57}
+\contentsline {section}{\numberline {3.1}Aplica\c {c}\~ao do Question\'ario}{32}{section.58}
+\contentsline {section}{\numberline {3.2}Estat\'isticas descritivas}{32}{section.59}
+\contentsline {subsection}{\numberline {3.2.1}An\'alise Estat\'istica}{39}{subsection.72}
+\contentsline {section}{\numberline {3.3}Estat\'isticas Inferenciais}{39}{section.74}
+\contentsline {chapter}{\numberline {4}Perpetuus, uma \emph {Gem} para construir MVP's}{41}{chapter.75}
+\contentsline {section}{\numberline {4.1}O conceito de Gem}{41}{section.76}
+\contentsline {section}{\numberline {4.2}Descri\c {c}\~ao da Perpetuus Gem}{41}{section.77}
+\contentsline {section}{\numberline {4.3}Requisitos de Sistema}{41}{section.78}
+\contentsline {section}{\numberline {4.4}Tecnologias Empregadas}{42}{section.79}
+\contentsline {subsection}{\numberline {4.4.1}Ruby}{42}{subsection.80}
+\contentsline {subsection}{\numberline {4.4.2}Ruby on Rails}{42}{subsection.81}
+\contentsline {subsection}{\numberline {4.4.3}RSpec}{42}{subsection.82}
+\contentsline {subsection}{\numberline {4.4.4}GitHub}{43}{subsection.83}
+\contentsline {subsection}{\numberline {4.4.5}Heroku}{43}{subsection.84}
+\contentsline {subsection}{\numberline {4.4.6}Travis}{43}{subsection.85}
+\contentsline {section}{\numberline {4.5}Instala\c {c}\~ao}{43}{section.86}
+\contentsline {section}{\numberline {4.6}Funcionamento da Gem}{44}{section.87}
+\contentsline {subsection}{\numberline {4.6.1}O comando \emph {perpetuus setup}}{44}{subsection.88}
+\contentsline {subsection}{\numberline {4.6.2}O comando \emph {perpetuus deploy}}{46}{subsection.94}
+\contentsline {chapter}{\numberline {5}Considera\c {c}\~oes finais}{48}{chapter.98}
+\contentsline {section}{\numberline {5.1}Limita\c {c}\~oes e dificuldades encontradas}{48}{section.99}
+\contentsline {section}{\numberline {5.2}Conclus\~ao}{48}{section.100}
+\contentsline {section}{\numberline {5.3}Trabalhos futuros}{49}{section.101}
+\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{50}{section.101}
 \contentsfinish 

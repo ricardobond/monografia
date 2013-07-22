@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  19 JUL 2013 17:06
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  22 JUL 2013 04:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -680,18 +680,18 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 9.85492pt on input line 19.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 28.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 26.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 10.79993pt on input line 28.
+(Font)              scaled to size 10.79993pt on input line 26.
  [9
 
 
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 41.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 44.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 8.99994pt on input line 41.
+(Font)              scaled to size 8.99994pt on input line 44.
 )
 \tf@toc=\write5
 \openout5 = `modelo-tese.toc'.
@@ -755,7 +755,7 @@ tura En-xuta (ME).
 [22] [23]
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 87.
- <./fig/customerDevelopment.png, id=531, 400.49625pt x 140.525pt>
+ <./fig/customerDevelopment.png, id=552, 400.49625pt x 140.525pt>
 File: ./fig/customerDevelopment.png Graphic file (type png)
 
 <use ./fig/customerDevelopment.png>
@@ -767,7 +767,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10.95> not available
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 125.
 
-[25] [26] <./fig/businessModelCanvas.jpg, id=556, 2258.4375pt x 1669.23625pt>
+[25] [26] <./fig/businessModelCanvas.jpg, id=577, 2258.4375pt x 1669.23625pt>
 File: ./fig/businessModelCanvas.jpg Graphic file (type jpg)
 
 <use ./fig/businessModelCanvas.jpg>
@@ -778,21 +778,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 179--179
 [][]|\T1/ptm/m/it/10.95 O Bu-si-ness Mo-del Can-vas de Os-terwal-der
  []
 
-<./fig/leanCanvas.png, id=560, 903.375pt x 766.865pt>
+<./fig/leanCanvas.png, id=581, 903.375pt x 766.865pt>
 File: ./fig/leanCanvas.png Graphic file (type png)
 
 <use ./fig/leanCanvas.png>
 Package pdftex.def Info: ./fig/leanCanvas.png used on input line 191.
 (pdftex.def)             Requested size: 341.43436pt x 289.84375pt.
  [27 <./fig/businessModelCanvas.jpg>] [28 <./fig/leanCanvas.png>] [29] <./fig/f
-eedbackLoop.png, id=595, 427.5975pt x 445.665pt>
+eedbackLoop.png, id=616, 427.5975pt x 445.665pt>
 File: ./fig/feedbackLoop.png Graphic file (type png)
 
 <use ./fig/feedbackLoop.png>
 Package pdftex.def Info: ./fig/feedbackLoop.png used on input line 248.
 (pdftex.def)             Requested size: 341.43436pt x 355.85925pt.
  [30 <./fig/feedbackLoop.png>]
-<./fig/continuousDelivery.png, id=603, 887.315pt x 644.4075pt>
+<./fig/continuousDelivery.png, id=624, 887.315pt x 644.4075pt>
 File: ./fig/continuousDelivery.png Graphic file (type png)
 
 <use ./fig/continuousDelivery.png>
@@ -805,80 +805,118 @@ Underfull \hbox (badness 10000) in paragraph at lines 260--260
 
 ) (./tex/cap_IV.tex [31 <./fig/continuousDelivery.png>]
 Cap\'{\i }tulo 3.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <20.74> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 1.
 
-Overfull \hbox (0.8739pt too wide) in paragraph at lines 13--14
+Overfull \hbox (0.8739pt too wide) in paragraph at lines 19--20
+[]\T1/ptm/b/n/12 Frequência| 
+ []
+
+[32
+
+]
+Overfull \hbox (0.8739pt too wide) in paragraph at lines 37--38
 []\T1/ptm/b/n/12 Frequência| 
  []
 
 
-Overfull \hbox (0.8739pt too wide) in paragraph at lines 27--28
+Overfull \hbox (0.8739pt too wide) in paragraph at lines 55--56
+[]\T1/ptm/b/n/12 Frequência| 
+ []
+
+[33]
+Overfull \hbox (0.8739pt too wide) in paragraph at lines 74--75
 []\T1/ptm/b/n/12 Frequência| 
  []
 
 
-Overfull \hbox (0.8739pt too wide) in paragraph at lines 43--44
+Overfull \hbox (0.8739pt too wide) in paragraph at lines 91--92
+[]\T1/ptm/b/n/12 Frequência| 
+ []
+
+[34]
+Overfull \hbox (0.8739pt too wide) in paragraph at lines 110--111
 []\T1/ptm/b/n/12 Frequência| 
  []
 
 
-Overfull \hbox (0.8739pt too wide) in paragraph at lines 58--59
+Overfull \hbox (0.8739pt too wide) in paragraph at lines 128--129
 []\T1/ptm/b/n/12 Frequência| 
  []
 
-
-Overfull \hbox (0.8739pt too wide) in paragraph at lines 73--74
-[]\T1/ptm/b/n/12 Frequência| 
- []
-
-
-Overfull \hbox (0.8739pt too wide) in paragraph at lines 88--89
-[]\T1/ptm/b/n/12 Frequência| 
- []
-
-
-Overfull \hbox (0.8739pt too wide) in paragraph at lines 104--105
-[]\T1/ptm/b/n/12 Frequência| 
- []
-
-
-Overfull \hbox (0.8739pt too wide) in paragraph at lines 119--120
-[]\T1/ptm/b/n/12 Frequência| 
- []
-
-
-Overfull \hbox (0.8739pt too wide) in paragraph at lines 134--135
-[]\T1/ptm/b/n/12 Frequência| 
- []
-
-
+[35]
 Overfull \hbox (0.8739pt too wide) in paragraph at lines 147--148
 []\T1/ptm/b/n/12 Frequência| 
  []
 
-) (./tex/cap_III.tex [32
 
-] [33] [34]
+Overfull \hbox (0.8739pt too wide) in paragraph at lines 164--165
+[]\T1/ptm/b/n/12 Frequência| 
+ []
+
+[36]
+Overfull \hbox (0.8739pt too wide) in paragraph at lines 181--182
+[]\T1/ptm/b/n/12 Frequência| 
+ []
+
+<./fig/graph1.png, id=667, 480.79625pt x 396.48125pt>
+File: ./fig/graph1.png Graphic file (type png)
+ <use ./fig/graph1.png>
+Package pdftex.def Info: ./fig/graph1.png used on input line 197.
+(pdftex.def)             Requested size: 341.43436pt x 281.56415pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[37] <./fig/graph2.png, id=675, 480.79625pt x 396.48125pt>
+File: ./fig/graph2.png Graphic file (type png)
+
+<use ./fig/graph2.png>
+Package pdftex.def Info: ./fig/graph2.png used on input line 208.
+(pdftex.def)             Requested size: 469.47307pt x 387.15146pt.
+
+Overfull \hbox (42.68173pt too wide) in paragraph at lines 208--209
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[38 <./fig/graph1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
+[]\T1/ptm/b/n/12 Estatísticas de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
+[]\T1/ptm/m/n/12 Quanto foi in-ves-tido vs.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--226
+[]\T1/ptm/m/n/12 Quanto foi in-ves-tido vs.
+ []
+
+) (./tex/cap_III.tex [39 <./fig/graph2.png>] [40]
 Cap\'{\i }tulo 4.
-LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <20.74> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 1.
-[35
+[41
 
-] [36]
+] [42]
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 70.
- [37] <./fig/setup1.png, id=657, 1088.065pt x 671.50874pt>
+ [43] <./fig/setup1.png, id=727, 1088.065pt x 671.50874pt>
 File: ./fig/setup1.png Graphic file (type png)
 
 <use ./fig/setup1.png>
 Package pdftex.def Info: ./fig/setup1.png used on input line 78.
 (pdftex.def)             Requested size: 213.39566pt x 131.69678pt.
- <./fig/setup2.png, id=659, 1088.065pt x 671.50874pt>
+ <./fig/setup2.png, id=729, 1088.065pt x 671.50874pt>
 File: ./fig/setup2.png Graphic file (type png)
 
 <use ./fig/setup2.png>
 Package pdftex.def Info: ./fig/setup2.png used on input line 87.
 (pdftex.def)             Requested size: 213.39566pt x 131.69678pt.
- <./fig/setup3.png, id=661, 1088.065pt x 671.50874pt>
+ <./fig/setup3.png, id=731, 1088.065pt x 671.50874pt>
 File: ./fig/setup3.png Graphic file (type png)
 
 <use ./fig/setup3.png>
@@ -888,14 +926,14 @@ Package pdftex.def Info: ./fig/setup3.png used on input line 96.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[38 <./fig/setup1.png> <./fig/setup2.png>]
-<./fig/setup4.png, id=669, 1088.065pt x 671.50874pt>
+[44 <./fig/setup1.png> <./fig/setup2.png>]
+<./fig/setup4.png, id=739, 1088.065pt x 671.50874pt>
 File: ./fig/setup4.png Graphic file (type png)
  <use ./fig/setup4.png>
 Package pdftex.def Info: ./fig/setup4.png used on input line 107.
 (pdftex.def)             Requested size: 213.39566pt x 131.69678pt.
 
-<./fig/setup5.png, id=671, 1088.065pt x 671.50874pt>
+<./fig/setup5.png, id=741, 1088.065pt x 671.50874pt>
 File: ./fig/setup5.png Graphic file (type png)
  <use ./fig/setup5.png>
 Package pdftex.def Info: ./fig/setup5.png used on input line 116.
@@ -904,15 +942,15 @@ Package pdftex.def Info: ./fig/setup5.png used on input line 116.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[39 <./fig/setup3.png> <./fig/setup4.png>]
-<./fig/cicloDeploy.png, id=679, 903.375pt x 351.3125pt>
+[45 <./fig/setup3.png> <./fig/setup4.png>]
+<./fig/cicloDeploy.png, id=749, 903.375pt x 351.3125pt>
 File: ./fig/cicloDeploy.png Graphic file (type png)
 
 <use ./fig/cicloDeploy.png>
 Package pdftex.def Info: ./fig/cicloDeploy.png used on input line 130.
 (pdftex.def)             Requested size: 256.0774pt x 99.58368pt.
- [40 <./fig/setup5.png> <./fig/cicloDeploy.png>]
-<./fig/deploy1.png, id=688, 1088.065pt x 671.50874pt>
+ [46 <./fig/setup5.png> <./fig/cicloDeploy.png>]
+<./fig/deploy1.png, id=757, 1088.065pt x 671.50874pt>
 File: ./fig/deploy1.png Graphic file (type png)
  <use ./fig/deploy1.png>
 Package pdftex.def Info: ./fig/deploy1.png used on input line 143.
@@ -922,19 +960,19 @@ File: ./fig/setup5.png Graphic file (type png)
 <use ./fig/setup5.png>
 Package pdftex.def Info: ./fig/setup5.png used on input line 152.
 (pdftex.def)             Requested size: 213.39566pt x 131.69678pt.
-) (./tex/cap_V.tex [41 <./fig/deploy1.png>]
+) (./tex/cap_V.tex [47 <./fig/deploy1.png>]
 Cap\'{\i }tulo 5.
-[42
+[48
 
-]) [43] (./modelo-tese.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
+]) [49] (./modelo-tese.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
 []\T1/ptm/m/n/12 BLANK, S. G. Why the lean start-up chan-ges everything.
  []
 
-[44
+[50
 
 
-] [45]) [46] 
+] [51]) [52] 
 AED: lastpage setting LastPage
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
@@ -942,14 +980,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 108.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 108.
 Package rerunfilecheck Info: File `modelo-tese.out' has not changed.
-(rerunfilecheck)             Checksum: CA764FAA996934FBC4856D78D03F32FC;3840.
+(rerunfilecheck)             Checksum: 0EF53821346556A57BD25F5F918CBCCF;4115.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
  ) 
 Here is how much of TeX's memory you used:
- 10636 strings out of 493488
- 155842 string characters out of 3141326
- 294471 words of memory out of 3000000
- 13494 multiletter control sequences out of 15000+200000
+ 10668 strings out of 493488
+ 156301 string characters out of 3141326
+ 279783 words of memory out of 3000000
+ 13511 multiletter control sequences out of 15000+200000
  117590 words of font info for 111 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  43i,12n,46p,1442b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -962,10 +1000,10 @@ t/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/ty
 pe1/urw/times/utmbi8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/t
 imes/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmri
 8a.pfb>
-Output written on modelo-tese.pdf (48 pages, 1992689 bytes).
+Output written on modelo-tese.pdf (54 pages, 2050149 bytes).
 PDF statistics:
- 786 PDF objects out of 1000 (max. 8388607)
- 696 compressed objects within 7 object streams
- 186 named destinations out of 1000 (max. 500000)
- 525 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 859 PDF objects out of 1000 (max. 8388607)
+ 758 compressed objects within 8 object streams
+ 199 named destinations out of 1000 (max. 500000)
+ 559 words of extra memory for PDF output out of 10000 (max. 10000000)
 
