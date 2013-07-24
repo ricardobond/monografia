@@ -7,45 +7,48 @@
 \contentsline {section}{\numberline {1.3}Objetivos}{17}{section.4}
 \contentsline {subsection}{\numberline {1.3.1}Objetivo Geral}{17}{subsection.5}
 \contentsline {subsection}{\numberline {1.3.2}Objetivos Espec{\'i}ficos}{17}{subsection.6}
-\contentsline {section}{\numberline {1.4}Metodologia}{17}{section.12}
-\contentsline {section}{\numberline {1.5}Organiza\c c\~ao do Trabalho}{18}{section.13}
-\contentsline {chapter}{\numberline {2}Fundamenta\c c\~ao Te\'orica}{19}{chapter.14}
-\contentsline {section}{\numberline {2.1}Empreendedorismo}{19}{section.15}
-\contentsline {section}{\numberline {2.2}Startup}{20}{section.16}
-\contentsline {section}{\numberline {2.3}Manufatura Enxuta}{21}{section.17}
-\contentsline {section}{\numberline {2.4}O Lean Startup}{23}{section.30}
-\contentsline {section}{\numberline {2.5}Customer Development}{24}{section.31}
-\contentsline {section}{\numberline {2.6}Desenvolvimento \'agil}{25}{section.33}
-\contentsline {section}{\numberline {2.7}Plataformas tecnol\'ogicas como \emph {commodities}}{25}{section.34}
-\contentsline {section}{\numberline {2.8}MVP: \emph {Minimum Viable Product}}{26}{section.35}
-\contentsline {section}{\numberline {2.9}\emph {Business Model Canvas}}{26}{section.36}
-\contentsline {section}{\numberline {2.10}\emph {Lean Canvas}}{27}{section.41}
-\contentsline {section}{\numberline {2.11}\emph {Feedback}}{29}{section.52}
-\contentsline {subsection}{\numberline {2.11.1}Ciclo de Feedback}{29}{subsection.53}
-\contentsline {section}{\numberline {2.12}\emph {Entrega Cont\IeC {\'\i }nua}}{31}{section.55}
-\contentsline {chapter}{\numberline {3}As 100 \emph {Startups} Goianas}{32}{chapter.57}
-\contentsline {section}{\numberline {3.1}Aplica\c {c}\~ao do Question\'ario}{32}{section.58}
-\contentsline {section}{\numberline {3.2}Estat\'isticas descritivas}{32}{section.59}
-\contentsline {subsection}{\numberline {3.2.1}An\'alise Estat\'istica}{39}{subsection.72}
-\contentsline {section}{\numberline {3.3}Estat\'isticas Inferenciais}{39}{section.74}
-\contentsline {chapter}{\numberline {4}Perpetuus, uma \emph {Gem} para construir MVP's}{41}{chapter.75}
-\contentsline {section}{\numberline {4.1}O conceito de Gem}{41}{section.76}
-\contentsline {section}{\numberline {4.2}Descri\c {c}\~ao da Perpetuus Gem}{41}{section.77}
-\contentsline {section}{\numberline {4.3}Requisitos de Sistema}{41}{section.78}
-\contentsline {section}{\numberline {4.4}Tecnologias Empregadas}{42}{section.79}
-\contentsline {subsection}{\numberline {4.4.1}Ruby}{42}{subsection.80}
-\contentsline {subsection}{\numberline {4.4.2}Ruby on Rails}{42}{subsection.81}
-\contentsline {subsection}{\numberline {4.4.3}RSpec}{42}{subsection.82}
-\contentsline {subsection}{\numberline {4.4.4}GitHub}{43}{subsection.83}
-\contentsline {subsection}{\numberline {4.4.5}Heroku}{43}{subsection.84}
-\contentsline {subsection}{\numberline {4.4.6}Travis}{43}{subsection.85}
-\contentsline {section}{\numberline {4.5}Instala\c {c}\~ao}{43}{section.86}
-\contentsline {section}{\numberline {4.6}Funcionamento da Gem}{44}{section.87}
-\contentsline {subsection}{\numberline {4.6.1}O comando \emph {perpetuus setup}}{44}{subsection.88}
-\contentsline {subsection}{\numberline {4.6.2}O comando \emph {perpetuus deploy}}{46}{subsection.94}
-\contentsline {chapter}{\numberline {5}Considera\c {c}\~oes finais}{48}{chapter.98}
-\contentsline {section}{\numberline {5.1}Limita\c {c}\~oes e dificuldades encontradas}{48}{section.99}
-\contentsline {section}{\numberline {5.2}Conclus\~ao}{48}{section.100}
-\contentsline {section}{\numberline {5.3}Trabalhos futuros}{49}{section.101}
-\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{50}{section.101}
+\contentsline {section}{\numberline {1.4}Organiza\c c\~ao do Trabalho}{18}{section.12}
+\contentsline {chapter}{\numberline {2}Metodologia}{19}{chapter.13}
+\contentsline {section}{\numberline {2.1}Classifica\c {c}\~ao da Pesquisa}{19}{section.14}
+\contentsline {subsection}{\numberline {2.1.1}Pesquisa Descritiva}{19}{subsection.15}
+\contentsline {subsection}{\numberline {2.1.2}Pesquisa Causal}{19}{subsection.16}
+\contentsline {chapter}{\numberline {3}Fundamenta\c c\~ao Te\'orica}{21}{chapter.17}
+\contentsline {section}{\numberline {3.1}Empreendedorismo}{21}{section.18}
+\contentsline {section}{\numberline {3.2}Startup}{22}{section.19}
+\contentsline {section}{\numberline {3.3}Manufatura Enxuta}{23}{section.20}
+\contentsline {section}{\numberline {3.4}O Lean Startup}{25}{section.33}
+\contentsline {section}{\numberline {3.5}Customer Development}{26}{section.34}
+\contentsline {section}{\numberline {3.6}Desenvolvimento \'agil}{27}{section.36}
+\contentsline {section}{\numberline {3.7}Plataformas tecnol\'ogicas como \emph {commodities}}{27}{section.37}
+\contentsline {section}{\numberline {3.8}MVP: \emph {Minimum Viable Product}}{28}{section.38}
+\contentsline {section}{\numberline {3.9}\emph {Business Model Canvas}}{28}{section.39}
+\contentsline {section}{\numberline {3.10}\emph {Lean Canvas}}{29}{section.44}
+\contentsline {section}{\numberline {3.11}\emph {Feedback}}{31}{section.55}
+\contentsline {subsection}{\numberline {3.11.1}Ciclo de Feedback}{31}{subsection.56}
+\contentsline {section}{\numberline {3.12}\emph {Entrega Cont\IeC {\'\i }nua}}{33}{section.58}
+\contentsline {chapter}{\numberline {4}An\'alise de Resultados}{34}{chapter.60}
+\contentsline {section}{\numberline {4.1}Aplica\c {c}\~ao do Question\'ario}{34}{section.61}
+\contentsline {section}{\numberline {4.2}Estat\'isticas descritivas}{34}{section.62}
+\contentsline {subsection}{\numberline {4.2.1}An\'alise Estat\'istica}{42}{subsection.75}
+\contentsline {section}{\numberline {4.3}Estat\'isticas Inferenciais}{42}{section.77}
+\contentsline {chapter}{\numberline {5}Perpetuus, uma \emph {Gem} para construir MVP's}{43}{chapter.80}
+\contentsline {section}{\numberline {5.1}O conceito de Gem}{43}{section.81}
+\contentsline {section}{\numberline {5.2}Descri\c {c}\~ao da Perpetuus Gem}{43}{section.82}
+\contentsline {section}{\numberline {5.3}Requisitos de Sistema}{43}{section.83}
+\contentsline {section}{\numberline {5.4}Tecnologias Empregadas}{44}{section.84}
+\contentsline {subsection}{\numberline {5.4.1}Ruby}{44}{subsection.85}
+\contentsline {subsection}{\numberline {5.4.2}Ruby on Rails}{44}{subsection.86}
+\contentsline {subsection}{\numberline {5.4.3}RSpec}{44}{subsection.87}
+\contentsline {subsection}{\numberline {5.4.4}GitHub}{45}{subsection.88}
+\contentsline {subsection}{\numberline {5.4.5}Heroku}{45}{subsection.89}
+\contentsline {subsection}{\numberline {5.4.6}Travis}{45}{subsection.90}
+\contentsline {section}{\numberline {5.5}Instala\c {c}\~ao}{45}{section.91}
+\contentsline {section}{\numberline {5.6}Funcionamento da Gem}{46}{section.92}
+\contentsline {subsection}{\numberline {5.6.1}O comando \emph {perpetuus setup}}{46}{subsection.93}
+\contentsline {subsection}{\numberline {5.6.2}O comando \emph {perpetuus deploy}}{48}{subsection.99}
+\contentsline {chapter}{\numberline {6}Considera\c {c}\~oes finais}{50}{chapter.103}
+\contentsline {section}{\numberline {6.1}Limita\c {c}\~oes e dificuldades encontradas}{50}{section.104}
+\contentsline {section}{\numberline {6.2}Conclus\~ao}{50}{section.105}
+\contentsline {section}{\numberline {6.3}Trabalhos futuros}{51}{section.106}
+\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{52}{section.106}
 \contentsfinish 

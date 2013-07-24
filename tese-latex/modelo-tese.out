@@ -18,44 +18,47 @@
 \BOOKMARK [1][-]{section.4}{1.3 Objetivos}{chapter.1}% 18
 \BOOKMARK [2][-]{subsection.5}{1.3.1 Objetivo Geral}{section.4}% 19
 \BOOKMARK [2][-]{subsection.6}{1.3.2 Objetivos Espec\355ficos}{section.4}% 20
-\BOOKMARK [1][-]{section.12}{1.4 Metodologia}{chapter.1}% 21
-\BOOKMARK [1][-]{section.13}{1.5 Organiza\347\343o do Trabalho}{chapter.1}% 22
-\BOOKMARK [0][-]{chapter.14}{2 Fundamenta\347\343o Te\363rica}{}% 23
-\BOOKMARK [1][-]{section.15}{2.1 Empreendedorismo}{chapter.14}% 24
-\BOOKMARK [1][-]{section.16}{2.2 Startup}{chapter.14}% 25
-\BOOKMARK [1][-]{section.17}{2.3 Manufatura Enxuta}{chapter.14}% 26
-\BOOKMARK [1][-]{section.30}{2.4 O Lean Startup}{chapter.14}% 27
-\BOOKMARK [1][-]{section.31}{2.5 Customer Development}{chapter.14}% 28
-\BOOKMARK [1][-]{section.33}{2.6 Desenvolvimento \341gil}{chapter.14}% 29
-\BOOKMARK [1][-]{section.34}{2.7 Plataformas tecnol\363gicas como commodities}{chapter.14}% 30
-\BOOKMARK [1][-]{section.35}{2.8 MVP: Minimum Viable Product}{chapter.14}% 31
-\BOOKMARK [1][-]{section.36}{2.9 Business Model Canvas}{chapter.14}% 32
-\BOOKMARK [1][-]{section.41}{2.10 Lean Canvas}{chapter.14}% 33
-\BOOKMARK [1][-]{section.52}{2.11 Feedback}{chapter.14}% 34
-\BOOKMARK [2][-]{subsection.53}{2.11.1 Ciclo de Feedback}{section.52}% 35
-\BOOKMARK [1][-]{section.55}{2.12 Entrega Cont\355nua}{chapter.14}% 36
-\BOOKMARK [0][-]{chapter.57}{3 As 100 Startups Goianas}{}% 37
-\BOOKMARK [1][-]{section.58}{3.1 Aplica\347\343o do Question\341rio}{chapter.57}% 38
-\BOOKMARK [1][-]{section.59}{3.2 Estat\355sticas descritivas}{chapter.57}% 39
-\BOOKMARK [2][-]{subsection.72}{3.2.1 An\341lise Estat\355stica}{section.59}% 40
-\BOOKMARK [1][-]{section.74}{3.3 Estat\355sticas Inferenciais}{chapter.57}% 41
-\BOOKMARK [0][-]{chapter.75}{4 Perpetuus, uma Gem para construir MVP's}{}% 42
-\BOOKMARK [1][-]{section.76}{4.1 O conceito de Gem}{chapter.75}% 43
-\BOOKMARK [1][-]{section.77}{4.2 Descri\347\343o da Perpetuus Gem}{chapter.75}% 44
-\BOOKMARK [1][-]{section.78}{4.3 Requisitos de Sistema}{chapter.75}% 45
-\BOOKMARK [1][-]{section.79}{4.4 Tecnologias Empregadas}{chapter.75}% 46
-\BOOKMARK [2][-]{subsection.80}{4.4.1 Ruby}{section.79}% 47
-\BOOKMARK [2][-]{subsection.81}{4.4.2 Ruby on Rails}{section.79}% 48
-\BOOKMARK [2][-]{subsection.82}{4.4.3 RSpec}{section.79}% 49
-\BOOKMARK [2][-]{subsection.83}{4.4.4 GitHub}{section.79}% 50
-\BOOKMARK [2][-]{subsection.84}{4.4.5 Heroku}{section.79}% 51
-\BOOKMARK [2][-]{subsection.85}{4.4.6 Travis}{section.79}% 52
-\BOOKMARK [1][-]{section.86}{4.5 Instala\347\343o}{chapter.75}% 53
-\BOOKMARK [1][-]{section.87}{4.6 Funcionamento da Gem}{chapter.75}% 54
-\BOOKMARK [2][-]{subsection.88}{4.6.1 O comando perpetuus setup}{section.87}% 55
-\BOOKMARK [2][-]{subsection.94}{4.6.2 O comando perpetuus deploy}{section.87}% 56
-\BOOKMARK [0][-]{chapter.98}{5 Considera\347\365es finais}{}% 57
-\BOOKMARK [1][-]{section.99}{5.1 Limita\347\365es e dificuldades encontradas}{chapter.98}% 58
-\BOOKMARK [1][-]{section.100}{5.2 Conclus\343o}{chapter.98}% 59
-\BOOKMARK [1][-]{section.101}{5.3 Trabalhos futuros}{chapter.98}% 60
-\BOOKMARK [0][-]{section.101}{Refer\352ncias Bibliogr\341ficas}{}% 61
+\BOOKMARK [1][-]{section.12}{1.4 Organiza\347\343o do Trabalho}{chapter.1}% 21
+\BOOKMARK [0][-]{chapter.13}{2 Metodologia}{}% 22
+\BOOKMARK [1][-]{section.14}{2.1 Classifica\347\343o da Pesquisa}{chapter.13}% 23
+\BOOKMARK [2][-]{subsection.15}{2.1.1 Pesquisa Descritiva}{section.14}% 24
+\BOOKMARK [2][-]{subsection.16}{2.1.2 Pesquisa Causal}{section.14}% 25
+\BOOKMARK [0][-]{chapter.17}{3 Fundamenta\347\343o Te\363rica}{}% 26
+\BOOKMARK [1][-]{section.18}{3.1 Empreendedorismo}{chapter.17}% 27
+\BOOKMARK [1][-]{section.19}{3.2 Startup}{chapter.17}% 28
+\BOOKMARK [1][-]{section.20}{3.3 Manufatura Enxuta}{chapter.17}% 29
+\BOOKMARK [1][-]{section.33}{3.4 O Lean Startup}{chapter.17}% 30
+\BOOKMARK [1][-]{section.34}{3.5 Customer Development}{chapter.17}% 31
+\BOOKMARK [1][-]{section.36}{3.6 Desenvolvimento \341gil}{chapter.17}% 32
+\BOOKMARK [1][-]{section.37}{3.7 Plataformas tecnol\363gicas como commodities}{chapter.17}% 33
+\BOOKMARK [1][-]{section.38}{3.8 MVP: Minimum Viable Product}{chapter.17}% 34
+\BOOKMARK [1][-]{section.39}{3.9 Business Model Canvas}{chapter.17}% 35
+\BOOKMARK [1][-]{section.44}{3.10 Lean Canvas}{chapter.17}% 36
+\BOOKMARK [1][-]{section.55}{3.11 Feedback}{chapter.17}% 37
+\BOOKMARK [2][-]{subsection.56}{3.11.1 Ciclo de Feedback}{section.55}% 38
+\BOOKMARK [1][-]{section.58}{3.12 Entrega Cont\355nua}{chapter.17}% 39
+\BOOKMARK [0][-]{chapter.60}{4 An\341lise de Resultados}{}% 40
+\BOOKMARK [1][-]{section.61}{4.1 Aplica\347\343o do Question\341rio}{chapter.60}% 41
+\BOOKMARK [1][-]{section.62}{4.2 Estat\355sticas descritivas}{chapter.60}% 42
+\BOOKMARK [2][-]{subsection.75}{4.2.1 An\341lise Estat\355stica}{section.62}% 43
+\BOOKMARK [1][-]{section.77}{4.3 Estat\355sticas Inferenciais}{chapter.60}% 44
+\BOOKMARK [0][-]{chapter.80}{5 Perpetuus, uma Gem para construir MVP's}{}% 45
+\BOOKMARK [1][-]{section.81}{5.1 O conceito de Gem}{chapter.80}% 46
+\BOOKMARK [1][-]{section.82}{5.2 Descri\347\343o da Perpetuus Gem}{chapter.80}% 47
+\BOOKMARK [1][-]{section.83}{5.3 Requisitos de Sistema}{chapter.80}% 48
+\BOOKMARK [1][-]{section.84}{5.4 Tecnologias Empregadas}{chapter.80}% 49
+\BOOKMARK [2][-]{subsection.85}{5.4.1 Ruby}{section.84}% 50
+\BOOKMARK [2][-]{subsection.86}{5.4.2 Ruby on Rails}{section.84}% 51
+\BOOKMARK [2][-]{subsection.87}{5.4.3 RSpec}{section.84}% 52
+\BOOKMARK [2][-]{subsection.88}{5.4.4 GitHub}{section.84}% 53
+\BOOKMARK [2][-]{subsection.89}{5.4.5 Heroku}{section.84}% 54
+\BOOKMARK [2][-]{subsection.90}{5.4.6 Travis}{section.84}% 55
+\BOOKMARK [1][-]{section.91}{5.5 Instala\347\343o}{chapter.80}% 56
+\BOOKMARK [1][-]{section.92}{5.6 Funcionamento da Gem}{chapter.80}% 57
+\BOOKMARK [2][-]{subsection.93}{5.6.1 O comando perpetuus setup}{section.92}% 58
+\BOOKMARK [2][-]{subsection.99}{5.6.2 O comando perpetuus deploy}{section.92}% 59
+\BOOKMARK [0][-]{chapter.103}{6 Considera\347\365es finais}{}% 60
+\BOOKMARK [1][-]{section.104}{6.1 Limita\347\365es e dificuldades encontradas}{chapter.103}% 61
+\BOOKMARK [1][-]{section.105}{6.2 Conclus\343o}{chapter.103}% 62
+\BOOKMARK [1][-]{section.106}{6.3 Trabalhos futuros}{chapter.103}% 63
+\BOOKMARK [0][-]{section.106}{Refer\352ncias Bibliogr\341ficas}{}% 64
