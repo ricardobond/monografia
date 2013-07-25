@@ -8,16 +8,16 @@
 \contentsline {figure}{\numberline {3.4}{\ignorespaces O ciclo de \emph {feedback} \cite {ries2011lean}.\relax }}{32}{figure.caption.57}
 \contentsline {figure}{\numberline {3.5}{\ignorespaces Diagrama de sequ\^encia da entrega cont\IeC {\'\i }nua \cite {humble2010continuous}.\relax }}{33}{figure.caption.59}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Tela para redefini\c {c}\~ao do nome do aplicativo.\relax }}{40}{figure.caption.73}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Tela para redefini\c {c}\~ao do nome do aplicativo.\relax }}{41}{figure.caption.74}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Rela\c {c}\~ao entre \emph {startups} que usam MVP e o tempo que de constru\c {c}\~ao do produto.\relax }}{40}{figure.caption.72}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Rela\c {c}\~ao entre \emph {startups} que usam MVP e o montante investido na constru\c {c}\~ao do produto.\relax }}{41}{figure.caption.73}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Tela inicial do \emph {plugin} para o usu\'ario inserir o nome do projeto\relax }}{46}{figure.caption.94}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Tela inicial de defini\c {c}\~ao do banco de dados a ser utilizado.\relax }}{46}{figure.caption.95}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Tela para defini\c {c}\~ao do nome do aplicativo.\relax }}{47}{figure.caption.96}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Tela para redefini\c {c}\~ao do nome do aplicativo.\relax }}{47}{figure.caption.97}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Resposta do servidor de hospedagem Heroku.\relax }}{48}{figure.caption.98}
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Caminho percorrido pelo c\'odigo fonte at\'e estar dispon\'ivel aos clientes em forma de aplicativo.\relax }}{48}{figure.caption.100}
-\contentsline {figure}{\numberline {5.7}{\ignorespaces \emph {Deploy} interrompido por causa de falhas na montagem do aplicativo pelo servi\c {c}o Travis.\relax }}{49}{figure.caption.101}
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Sa\'ida do console de execu\c {c}\~ao da tarefa de \emph {deploy} do MVP\relax }}{49}{figure.caption.102}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Tela inicial do \emph {plugin} para o usu\'ario inserir o nome do projeto\relax }}{47}{figure.caption.93}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Tela inicial de defini\c {c}\~ao do banco de dados a ser utilizado.\relax }}{47}{figure.caption.94}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Tela para defini\c {c}\~ao do nome do aplicativo.\relax }}{48}{figure.caption.95}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Tela para redefini\c {c}\~ao do nome do aplicativo.\relax }}{48}{figure.caption.96}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Resposta do servidor de hospedagem Heroku.\relax }}{49}{figure.caption.97}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Caminho percorrido pelo c\'odigo fonte at\'e estar dispon\'ivel aos clientes em forma de aplicativo.\relax }}{49}{figure.caption.99}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces \emph {Deploy} interrompido por causa de falhas na montagem do aplicativo pelo servi\c {c}o Travis.\relax }}{50}{figure.caption.100}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Sa\'ida do console de execu\c {c}\~ao da tarefa de \emph {deploy} do MVP\relax }}{50}{figure.caption.101}
 \addvspace {10\p@ }
 \contentsfinish 

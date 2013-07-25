@@ -18,47 +18,47 @@
 \BOOKMARK [1][-]{section.4}{1.3 Objetivos}{chapter.1}% 18
 \BOOKMARK [2][-]{subsection.5}{1.3.1 Objetivo Geral}{section.4}% 19
 \BOOKMARK [2][-]{subsection.6}{1.3.2 Objetivos Espec\355ficos}{section.4}% 20
-\BOOKMARK [1][-]{section.12}{1.4 Organiza\347\343o do Trabalho}{chapter.1}% 21
-\BOOKMARK [0][-]{chapter.13}{2 Metodologia}{}% 22
-\BOOKMARK [1][-]{section.14}{2.1 Classifica\347\343o da Pesquisa}{chapter.13}% 23
-\BOOKMARK [2][-]{subsection.15}{2.1.1 Pesquisa Descritiva}{section.14}% 24
-\BOOKMARK [2][-]{subsection.16}{2.1.2 Pesquisa Causal}{section.14}% 25
-\BOOKMARK [0][-]{chapter.17}{3 Fundamenta\347\343o Te\363rica}{}% 26
-\BOOKMARK [1][-]{section.18}{3.1 Empreendedorismo}{chapter.17}% 27
-\BOOKMARK [1][-]{section.19}{3.2 Startup}{chapter.17}% 28
-\BOOKMARK [1][-]{section.20}{3.3 Manufatura Enxuta}{chapter.17}% 29
-\BOOKMARK [1][-]{section.33}{3.4 O Lean Startup}{chapter.17}% 30
-\BOOKMARK [1][-]{section.34}{3.5 Customer Development}{chapter.17}% 31
-\BOOKMARK [1][-]{section.36}{3.6 Desenvolvimento \341gil}{chapter.17}% 32
-\BOOKMARK [1][-]{section.37}{3.7 Plataformas tecnol\363gicas como commodities}{chapter.17}% 33
-\BOOKMARK [1][-]{section.38}{3.8 MVP: Minimum Viable Product}{chapter.17}% 34
-\BOOKMARK [1][-]{section.39}{3.9 Business Model Canvas}{chapter.17}% 35
-\BOOKMARK [1][-]{section.44}{3.10 Lean Canvas}{chapter.17}% 36
-\BOOKMARK [1][-]{section.55}{3.11 Feedback}{chapter.17}% 37
-\BOOKMARK [2][-]{subsection.56}{3.11.1 Ciclo de Feedback}{section.55}% 38
-\BOOKMARK [1][-]{section.58}{3.12 Entrega Cont\355nua}{chapter.17}% 39
-\BOOKMARK [0][-]{chapter.60}{4 An\341lise de Resultados}{}% 40
-\BOOKMARK [1][-]{section.61}{4.1 Aplica\347\343o do Question\341rio}{chapter.60}% 41
-\BOOKMARK [1][-]{section.62}{4.2 Estat\355sticas descritivas}{chapter.60}% 42
-\BOOKMARK [2][-]{subsection.75}{4.2.1 An\341lise Estat\355stica}{section.62}% 43
-\BOOKMARK [1][-]{section.77}{4.3 Estat\355sticas Inferenciais}{chapter.60}% 44
-\BOOKMARK [0][-]{chapter.80}{5 Perpetuus, uma Gem para construir MVP's}{}% 45
-\BOOKMARK [1][-]{section.81}{5.1 O conceito de Gem}{chapter.80}% 46
-\BOOKMARK [1][-]{section.82}{5.2 Descri\347\343o da Perpetuus Gem}{chapter.80}% 47
-\BOOKMARK [1][-]{section.83}{5.3 Requisitos de Sistema}{chapter.80}% 48
-\BOOKMARK [1][-]{section.84}{5.4 Tecnologias Empregadas}{chapter.80}% 49
-\BOOKMARK [2][-]{subsection.85}{5.4.1 Ruby}{section.84}% 50
-\BOOKMARK [2][-]{subsection.86}{5.4.2 Ruby on Rails}{section.84}% 51
-\BOOKMARK [2][-]{subsection.87}{5.4.3 RSpec}{section.84}% 52
-\BOOKMARK [2][-]{subsection.88}{5.4.4 GitHub}{section.84}% 53
-\BOOKMARK [2][-]{subsection.89}{5.4.5 Heroku}{section.84}% 54
-\BOOKMARK [2][-]{subsection.90}{5.4.6 Travis}{section.84}% 55
-\BOOKMARK [1][-]{section.91}{5.5 Instala\347\343o}{chapter.80}% 56
-\BOOKMARK [1][-]{section.92}{5.6 Funcionamento da Gem}{chapter.80}% 57
-\BOOKMARK [2][-]{subsection.93}{5.6.1 O comando perpetuus setup}{section.92}% 58
-\BOOKMARK [2][-]{subsection.99}{5.6.2 O comando perpetuus deploy}{section.92}% 59
-\BOOKMARK [0][-]{chapter.103}{6 Considera\347\365es finais}{}% 60
-\BOOKMARK [1][-]{section.104}{6.1 Limita\347\365es e dificuldades encontradas}{chapter.103}% 61
-\BOOKMARK [1][-]{section.105}{6.2 Conclus\343o}{chapter.103}% 62
-\BOOKMARK [1][-]{section.106}{6.3 Trabalhos futuros}{chapter.103}% 63
-\BOOKMARK [0][-]{section.106}{Refer\352ncias Bibliogr\341ficas}{}% 64
+\BOOKMARK [1][-]{section.11}{1.4 Organiza\347\343o do Trabalho}{chapter.1}% 21
+\BOOKMARK [0][-]{chapter.12}{2 Metodologia}{}% 22
+\BOOKMARK [1][-]{section.13}{2.1 Classifica\347\343o da Pesquisa}{chapter.12}% 23
+\BOOKMARK [2][-]{subsection.14}{2.1.1 Pesquisa Descritiva}{section.13}% 24
+\BOOKMARK [2][-]{subsection.15}{2.1.2 Pesquisa Causal}{section.13}% 25
+\BOOKMARK [1][-]{section.16}{2.2 Operacionaliza\347\343o do M\351todo}{chapter.12}% 26
+\BOOKMARK [0][-]{chapter.17}{3 Fundamenta\347\343o Te\363rica}{}% 27
+\BOOKMARK [1][-]{section.18}{3.1 Empreendedorismo}{chapter.17}% 28
+\BOOKMARK [1][-]{section.19}{3.2 Startup}{chapter.17}% 29
+\BOOKMARK [1][-]{section.20}{3.3 Manufatura Enxuta}{chapter.17}% 30
+\BOOKMARK [1][-]{section.33}{3.4 O Lean Startup}{chapter.17}% 31
+\BOOKMARK [1][-]{section.34}{3.5 Customer Development}{chapter.17}% 32
+\BOOKMARK [1][-]{section.36}{3.6 Desenvolvimento \341gil}{chapter.17}% 33
+\BOOKMARK [1][-]{section.37}{3.7 Plataformas tecnol\363gicas como commodities}{chapter.17}% 34
+\BOOKMARK [1][-]{section.38}{3.8 MVP: Minimum Viable Product}{chapter.17}% 35
+\BOOKMARK [1][-]{section.39}{3.9 Business Model Canvas}{chapter.17}% 36
+\BOOKMARK [1][-]{section.44}{3.10 Lean Canvas}{chapter.17}% 37
+\BOOKMARK [1][-]{section.55}{3.11 Feedback}{chapter.17}% 38
+\BOOKMARK [2][-]{subsection.56}{3.11.1 Ciclo de Feedback}{section.55}% 39
+\BOOKMARK [1][-]{section.58}{3.12 Entrega Cont\355nua}{chapter.17}% 40
+\BOOKMARK [0][-]{chapter.60}{4 An\341lise de Resultados}{}% 41
+\BOOKMARK [1][-]{section.61}{4.1 Estat\355sticas descritivas}{chapter.60}% 42
+\BOOKMARK [2][-]{subsection.74}{4.1.1 An\341lise do relacionamento e independ\352ncia das vari\341veis}{section.61}% 43
+\BOOKMARK [1][-]{section.76}{4.2 Estat\355sticas Inferenciais}{chapter.60}% 44
+\BOOKMARK [0][-]{chapter.79}{5 Perpetuus, uma Gem para construir MVP's}{}% 45
+\BOOKMARK [1][-]{section.80}{5.1 O conceito de Gem}{chapter.79}% 46
+\BOOKMARK [1][-]{section.81}{5.2 Descri\347\343o da Perpetuus Gem}{chapter.79}% 47
+\BOOKMARK [1][-]{section.82}{5.3 Requisitos de Sistema}{chapter.79}% 48
+\BOOKMARK [1][-]{section.83}{5.4 Tecnologias Empregadas}{chapter.79}% 49
+\BOOKMARK [2][-]{subsection.84}{5.4.1 Ruby}{section.83}% 50
+\BOOKMARK [2][-]{subsection.85}{5.4.2 Ruby on Rails}{section.83}% 51
+\BOOKMARK [2][-]{subsection.86}{5.4.3 RSpec}{section.83}% 52
+\BOOKMARK [2][-]{subsection.87}{5.4.4 GitHub}{section.83}% 53
+\BOOKMARK [2][-]{subsection.88}{5.4.5 Heroku}{section.83}% 54
+\BOOKMARK [2][-]{subsection.89}{5.4.6 Travis}{section.83}% 55
+\BOOKMARK [1][-]{section.90}{5.5 Instala\347\343o}{chapter.79}% 56
+\BOOKMARK [1][-]{section.91}{5.6 Funcionamento da Gem}{chapter.79}% 57
+\BOOKMARK [2][-]{subsection.92}{5.6.1 O comando perpetuus setup}{section.91}% 58
+\BOOKMARK [2][-]{subsection.98}{5.6.2 O comando perpetuus deploy}{section.91}% 59
+\BOOKMARK [0][-]{chapter.102}{6 Considera\347\365es finais}{}% 60
+\BOOKMARK [1][-]{section.103}{6.1 Limita\347\365es e dificuldades encontradas}{chapter.102}% 61
+\BOOKMARK [1][-]{section.104}{6.2 Conclus\343o}{chapter.102}% 62
+\BOOKMARK [1][-]{section.105}{6.3 Trabalhos futuros}{chapter.102}% 63
+\BOOKMARK [0][-]{section.105}{Refer\352ncias Bibliogr\341ficas}{}% 64

@@ -5,13 +5,7 @@ Esta se\c{c}\~ao apresenta a an\'alise dos dados provenientes da aplica\c{c}\~ao
 
 A primeira parte apresenta o resultado das an\'alises provenientes das estat\'isticas descritivas, onde s\~ao apresentadas as distribui\c{c}\~oes de frequ\^encias para as respostas do question\'ario, testes de qui--quadrado (independ\^encia) e correla\c{c}\~ao (relacionamento) entre as vari\'aveis estudadas.
 
-A segunda parte apresenta o resultado 
-
-\section{Aplica\c{c}\~ao do Question\'ario}
-
-O question\'ario foi aplicado ao grupo de \emph{startups} participantes do StartupGO no \emph{facebook} (https://www.facebook.com/groups/startupgo/). Com a ajuda do administrador da p\'agina Paolo Petrelli foram levantadas 100 \emph{startups} dispostas \`a participar da pesquisa, apesar do StartupGO contar atualmente com 1.047 membros a maioria dos participantes n\~ao s\~ao empreendedores.
-
-As perguntas elaboradas e as respostas s\~ao mostradas na sess\~ao de Estat\'isticas descritivas. Todos os dados foram analisados utilizando--se a vers\~ao 21.0 do IBM SPSS (http://www.ibm.com/SPSS)
+A segunda parte apresenta o resultado das an\'alises provenientes das estat\'isticas inferenciais onde s\~ao apresentadas as vari\'aveis definidas em uma tentativa de elabora\c{c}\~ao de um modelo de previs\~ao estat\'istica.
 
 \section{Estat\'isticas descritivas}
 
@@ -202,8 +196,9 @@ A figura \ref{fig:cap4fig1} mostra a rela\c{c}\~ao entre respostas referentes ao
 
 \begin{figure}[h]
   \centering
-  \caption{Tela para redefini\c{c}\~ao do nome do aplicativo.}
+  \caption{Rela\c{c}\~ao entre \emph{startups} que usam MVP e o tempo que de constru\c{c}\~ao do produto.}
   \includegraphics[width=1.1\textwidth]{./fig/graph1}
+  \caption*{\textbf{Fonte:} dados da pesquisa}
   \label{fig:cap4fig1}
 \end{figure}
 
@@ -215,16 +210,23 @@ J\'a a figura \ref{fig:cap4fig2} mostra a rela\c{c}\~ao entre repostas referente
 
 \begin{figure}[h]
   \centering
-  \caption{Tela para redefini\c{c}\~ao do nome do aplicativo.}
+  \caption{Rela\c{c}\~ao entre \emph{startups} que usam MVP e o montante investido na constru\c{c}\~ao do produto.}
   \includegraphics[width=1.1\textwidth]{./fig/graph2}
   \label{fig:cap4fig2}
+  \caption*{\textbf{Fonte:} dados da pesquisa}
 \end{figure}
 
 \pagebreak
 
-\subsection{An\'alise Estat\'istica}
+\subsection{An\'alise do relacionamento e independ\^encia das vari\'aveis}
+
+De posse dos dados o pesquisador realizaou uma s\'erie de testes para verificar o relacionamento e independ\^encia das vari\'aveis.
 
 O coeficiente de correla\c{c}\~ao linear de Pearson foi utilizado para avaliar o n\'ivel de correla\c{c}\~ao entre as vari\'aveis listadas, e o teste de qui--quadrado confirma ou n\~ao a signific\^ancia entre essas vari\'aveis. S\~ao considerados significativos valores de p $\leq$ 0,05.
+
+A tabela \ref{tab:cruza1} apresenta os resultados os quais os testes de correla\c{c}\~ao e qui--quadrado foram estat\'isticamente significativos.
+
+De todos os testes realizados com as vari\'aveis apresentadas em formato de perguntas do question\'ario foram encontrados relacionamentos para as perguntas \ref{tab:pergunta5} e \ref{tab:pergunta6} .
 
 \begin{table*}[hb]
 \centering
@@ -240,9 +242,16 @@ O coeficiente de correla\c{c}\~ao linear de Pearson foi utilizado para avaliar o
 \caption*{* n\'ivel de confian\c{c}a de 90\%\linebreak ** n\'ivel de confian\c{c}a de 90\% a 95\% \linebreak *** n\'ivel de confian\c{c}a de 99,9\%}
 \end{table*}
 
-A interpreta\c{c}\~ao da tabela \ref{tab:cap4inf1} permite--nos concluir que h\'a correla\c{c}\~ao linear, direta e positiva entre "quanto foi investido na constru\c{c}\~ao do primeiro produto"(tabela \ref{tab:pergunta5}) e "quanto tempo leva--se para colocar a primeira vers\~ao deste produto no ar (tablela \ref{tab:pergunta6})" e o teste de qui-quadrado permite--nos concluir que h\'a signific\^ancia entre as vari\'aveis apresentadas.
+Conforme a tabela \ref{tab:cruza1} pode--se concluir que existe uma independ\^encia entre o tempo de constru\c{c}\~ao da primeira vers\~ao do produto e o montante investido nesta vers\~ao, essa independ\^encia \'e estat\'isticamente significativa a um n\'ivel de 95\% de confian\c{c}a, ou seja, as respostas dadas s\~ao estat\'isticamente diferentes para as perguntas \ref{tab:pergunta5} e \ref{tab:pergunta6}. Com rela\c{c}\~ao ao teste de correla\c{c}\~ao identificou--se uma rela\c{c}\~ao linear, direta e positiva estat\'isticamente significativa a um n\'ivel de confian\c{c}a de 95\%, ou seja, quanto maior o montante investido (segundo entrevistados) maior o tempo de constru\c{c}\~ao da primeira vers\~ao do produto da \emph{startup}.
+
 
 \section{Estat\'isticas Inferenciais}
+
+Uma das principais medidas de avalia\c{c}\~ao geral da Regress\~ao Log\'istica, o \emph{Log Likelihood Value}. Trata-se de um indicador que busca aferir a capacidade de o modelo estimar a probabilidade associada \`a ocorr\^encia de determinado evento.
+
+De modo geral, o \emph{Likelihood Value} tem sido representado pela express\~ao --2LL, que nada mais \'e do que o logaritmo natural do \emph{Likelihood Value} multiplicado por --2, seguindo--se uma distribui\c{c}\~ao qui--quadrado. Dado que a probabilidade m\'axima de um evento ocorrer \'e representada no modelo log\'istico pelo n\'umero um, pode--se deduzir que o n\'ivel ideal para o \emph{Likelihood Value} \'e zero. Em outras palavras, quanto mais pr\'oximo de zero, maior o poder preditivo do modelo proposto.
+
+A tabela \ref{tab:cap4inf1} apresenta o \emph{Likelihood Value} calculado com base nas vari\'aveis definidas na tabela \ref{tab:inferencial2} em uma tentativa explorat\'oria de identificar que fatores determinam a probabilidade de ocorr\^encia da ado\c{c}\~ao do MVP pelos empreendedores. O \emph{Nagelkerke R Square} pode ser interpretado como o percentual de casos em que o modelo proposto explica a decis\~ao de uso do MVP na constru\c{c}\~ao do primeiro produto da \emph{startup}, neste caso o modelo proposto consegue explicar apenas 19,9\% dos casos, portanto considera--se um modelo de previs\~ao ruim.
 
 \begin{table*}[hb]
 \centering
@@ -255,18 +264,24 @@ A interpreta\c{c}\~ao da tabela \ref{tab:cap4inf1} permite--nos concluir que h\'
 \end{tabular}
 \end{table*}
 
+A tabela \ref{tab:inferencial2} apresenta o motivo de se ter encontrado um modelo ruim para a previs\~ao das ocorr\^encias de uso do MVP, as vari\'aveis escolhidas para formular as hip\'oteses de ocorr\^encia n\~ao s\~ao estat\'isticamente significativas, ou seja, elas n\~ao impactam diretamente na decis\~ao de uso do MVP por parte dos empreendedores por apresentarem valores superiores a 0,05, excluindo--se a vari\'avel \emph{planejamento}.
+
+Para a vari\'avel \emph{planejamento} tem--se o \emph{p valor} = 0.022 e o coeficiente beta = --0.471, logo a rela\c{c}\~ao entre a ado\c{c}\~ao do MVP e o tipo de planejamento feito \'e inversamente proporcional. Conclui--se que empreendedores adeptos ao MVP aplicam o \emph{Business Canvas} como planejamento para execu\c{c}\~ao de suas ideias.
+
+As vari\'aveis representam respectivamente as perguntas \ref{tab:pergunta3}, \ref{tab:pergunta4}, \ref{tab:pergunta5}, \ref{tab:pergunta6}, \ref{tab:pergunta7}, \ref{tab:pergunta8}.
+
 \begin{table*}[hb]
 \centering
 \caption{Vari\'aveis na Equa\c{c}\~ao}
 \label{tab:inferencial2}
 \begin{tabular}{|p{5cm}|p{3cm}|}
 \hline{\bf Vari\'aveis} & {\bf p valor}\\
-\hline pergunta 3 & 0.022\\
-\hline pergunta 4 & 0.873\\
-\hline pergunta 5 & 0.127\\
-\hline pergunta 6 & 0.117\\
-\hline pergunta 6 & 0.518\\
-\hline pergunta 7 & 0.138\\
+\hline planejamento & 0.022\\
+\hline tiporecurso & 0.873\\
+\hline investimento & 0.127\\
+\hline tempoproduto & 0.117\\
+\hline primeiraversao & 0.518\\
+\hline prioridade & 0.138\\
 \hline
 \end{tabular}
 \end{table*}
